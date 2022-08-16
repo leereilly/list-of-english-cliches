@@ -44,11 +44,9 @@ Above Board
 Absence Makes the Heart Grow Fonder
 Absolute Power Corrupts Absolutely
 Ace in the Hole
-Ace in the Hole
 Ace Up His Sleeve
 Ace Up Your Sleeve
 Achilles' Heel
-Acid Test
 Acid Test
 The Acorn Doesn't Fall Far from the Tree
 Actions Speak Louder Than Words
@@ -57,7 +55,6 @@ After My Own Heart
 Ah, to Be Young and Foolish
 Airing Dirty Laundry
 Airing Dirty Laundry (in Public)
-All's Fair in Love and War
 All's Fair in Love and War
 All's Well That Ends Well.
 All Bent out of Shape
@@ -75,7 +72,6 @@ All Hat, No Cattle
 All Heck (hell) Breaks Loose
 All Icing, No Cake
 All in a Day's Work
-All in a Day's Work
 All in Due Time.
 All is Vanity
 All Lime and Salt, No Tequila.
@@ -92,7 +88,6 @@ All That Glitters is Not Gold
 All That Jazz
 All the Bits and Pieces
 All the World's a Stage
-All Thumbs
 All Thumbs
 All Wax and No Wick
 All Wet
@@ -150,7 +145,6 @@ Ask Me No Questions and I'll Tell You No Lies.
 Ask Not What Your Country Can Do for You, but What You Can Do for Your Country.
 Asleep at the Wheel
 As Luck Would Have It
-As Luck Would Have It
 As Old As Methuselah
 As Old As Time
 As Plain As the Nose on Your Face.
@@ -179,17 +173,14 @@ At the Last Minute
 At Your Wits' End
 Ax to Grind
 Babe in the Woods
-Babe in the Woods
 Baby Blues
 Baby Boomer
 Back-handed Comment / Compliment
 Back-seat Driver
 Back-stabber
 Back Against the Wall
-Back Against the Wall
 Back from the Dead
 Back in a Sec
-Back in the Saddle
 Back in the Saddle
 Back It Up
 The Back of Beyond
@@ -197,8 +188,6 @@ Backroom Boy
 Back the Field
 Back to Basics
 Back to Square One
-Back to Square One
-Back to the Drawing Board
 Back to the Drawing Board
 Bad Blood
 Bad Call
@@ -208,7 +197,6 @@ Badgered to Death
 Bad Hair Day
 Badonkadonk
 Bad Seed
-Bad to the Bone
 Bad to the Bone
 Bag and Baggage
 Bag Lady
@@ -220,7 +208,6 @@ Ball and Chain
 Ball is in Your Court
 Ballpark Figure
 Balls to the Wall
-Balls to the Wall
 Banding Together to Beat the Odds.
 Bandy Words
 Banging Your Head Against a Brick Wall.
@@ -228,7 +215,6 @@ Bang on About
 Bank on It
 Baptism by / of Fire
 Baptism of Fire
-Bare Bones
 Bare Bones
 Barefaced Liar
 Barge (right) in
@@ -240,7 +226,6 @@ Basket Case
 Bat an Eyelid
 Bated Breath
 Bat out of Hell
-Bats in the Belfry
 Bats in the Belfry
 Batten Down the Hatches
 Bat the Idea Around
@@ -254,7 +239,6 @@ Beat a Hasty Retreat
 Beat Around the Bush
 Beat Him by a Long Chalk
 Beat It!
-Beats Me
 Beats Me
 Beat Swords into Ploughshares.
 Beat the Bushes
@@ -297,15 +281,11 @@ Best Thing Since Sliced Bread
 The Best Things in Life Are Free
 Be There or Be Square.
 Better Half
-Better Half
-Better Late Than Never
 Better Late Than Never
 Better Light a Candle Than Curse the Darkness.
 Better Mousetrap
 Better Safe Than Sorry
-Better Safe Than Sorry
 Better Than a Kick in the Teeth
-Better Than Ever
 Better Than Ever
 Better the Devil You Know
 Better the Devil You Know Than the Devil You Don't.
@@ -313,27 +293,22 @@ Better to Have Loved and Lost Than Never to Have Loved at All.
 Better to Remain Silent and Be Thought a Fool That to Speak and Remove All Doubt.
 Bet the Farm
 Between a Rock and a Hard Place
-Between a Rock and a Hard Place
 Between the Devil and the Deep Blue Sea
 Between Two Stools
 Between You, Me and the Bed-post
 Bet Your Bottom Dollar
-Bet Your Bottom Dollar
 Beware of Greeks Bearing Gifts.
 Beware the Ides of March.
 Beyond Our Ken
-Beyond the Pale
 Beyond the Pale
 Bib and Tucker
 Big-wig
 The Big Apple
 Big As a House
 Big As Life
-Big As Life
 Big Cheese
 The Big Cheese
 The Big Easy
-Big Fish in a Small Pond
 Big Fish in a Small Pond
 Bigger They Are, the Harder They Fall
 Bigger They Are the
@@ -353,8 +328,6 @@ Bite Me
 Bite off More Than You Can Chew
 Bite the Bullet
 Bite the Dust
-Bite the Dust
-Bite Your Tongue
 Bite Your Tongue
 Bitter Disappointment
 The Bitter End
@@ -364,14 +337,12 @@ Black As Pitch
 Blackball Someone
 Black Sheep of the Family
 Blast from the Past
-Blast from the Past
 A Blast from the Past
 Blaze a New Trail
 Bleeding Heart
 Bleed Like a Stuck Pig
 Blew Him Away
 Blew His Wad
-Blind As a Bat
 Blind As a Bat
 Blind Leading the Blind
 The Blind Leading the Blind
@@ -380,7 +351,6 @@ Blood and Thunder
 Blood Brothers
 Blood is Thicker Than Water
 Blood is Thicker Than Water.
-Blood Money
 Blood Money
 Blood on Your Hands
 Blood Sweat and Tears
@@ -414,7 +384,6 @@ Bone-chilling Cold
 Bone Dry
 Bone Idle
 Bone of Contention
-Bone of Contention
 Bone to Pick
 Bone Up on
 Booby Prize
@@ -422,7 +391,6 @@ Booby Trap
 Boot is on the Other Foot
 Booze and Broads
 Booze Cruise
-Bored to Tears
 Bored to Tears
 Born and Raised
 Born with a Silver Spoon in His Mouth.
@@ -432,7 +400,6 @@ Born Yesterday
 Botch the Job
 Both Barrels
 Bottom Drawer
-Bottom Line
 Bottom Line
 The Bottom Line
 Bottom of the Barrel
@@ -444,7 +411,6 @@ Box Yourself in
 Boys Will Be Boys.
 Bragging Rights
 Brain Drain
-Brain Drain
 Brain Dump
 Brand Spanking New
 Brass Tacks
@@ -452,7 +418,6 @@ The Bread of Life
 Break a Leg
 Break the Ice
 Bright As a Button
-Bring Home the Bacon
 Bring Home the Bacon
 Bring It on
 Bring Sand to the Beach
@@ -497,7 +462,6 @@ Bust Your Balls
 Bust Your Chops
 Busy As a Bear in a Beehive
 Busy As a Bee
-Busy As a Bee
 Busy As a One-armed Paperhanger
 Busy As a One-legged Man in an Ass-kicking Contest
 Busy Hands Are Happy Hands
@@ -512,7 +476,6 @@ Buy a Pig in a Poke
 Buy into
 Buy Something for a Song
 By All Means, After You
-By and Large
 By and Large
 By George
 By Gum
@@ -582,7 +545,6 @@ Caught by the Short Hairs
 Caught in the Crossfire
 Caught Me Off-guard
 Caught Red-handed
-Caught Red-handed
 Caught with His Hands in the Till
 Caught with His Pants Down
 Caught with Your Hand in the Cookie Jar
@@ -594,7 +556,6 @@ Champ at the Bit
 Changes Hands
 Change Your Tune
 Channel Surfing
-Chapter and Verse
 Chapter and Verse
 Charity Begins at Home.
 Charmed Life
@@ -640,8 +601,6 @@ Cleanliness is Next to Godliness
 Cleanliness is Next to Godliness.
 Clean Sweep
 Clear As a Bell
-Clear As a Bell
-Clear As Mud
 Clear As Mud
 Clear Blue Water
 Clear the Air
@@ -671,7 +630,6 @@ Cold Comfort
 Cold Enough to Freeze the Balls off a Brass Monkey
 Cold Feet
 Cold Hands, Warm Heart
-Cold Shoulder
 Cold Shoulder
 The Cold Shoulder
 Cold Turkey
@@ -711,7 +669,6 @@ Couldn't Get to First Base
 Couldn't Make Heads or Tails of It
 Countless Hours
 Count Your Blessings
-Count Your Blessings
 The Course of True Love Never Did Run Smooth
 Cover My Ass
 Crack Down
@@ -743,8 +700,6 @@ A Cult of Personality
 A Curate's Egg
 Curb Your Enthusiasm
 Curiosity Killed the Cat
-Curiosity Killed the Cat
-Curry Favor
 Curry Favor
 Curse a Blue Streak
 The Customer is Always Right
@@ -752,7 +707,6 @@ Cut a Fine Figure
 Cut and Dried
 Cut and Run
 Cut Corners
-Cute As a Button
 Cute As a Button
 Cut from the Same Cloth
 Cut It out
@@ -764,7 +718,6 @@ Cuts to the Core
 Cuts to the Quick
 Cut the Mustard
 Cutting Through All the Red Tape
-Cut to the Chase
 Cut to the Chase
 Cut to the Quick
 Cut Your Losses
@@ -785,7 +738,6 @@ David Versus Goliath
 Davy Jones' Locker
 Daylight Robbery
 Dead As a Dodo
-Dead As a Doornail
 Dead As a Doornail
 Dead Ringer
 A Dead Ringer
@@ -831,9 +783,7 @@ Dog's Breakfast
 Dog's Dinner
 The Dog Ate My Homework
 Dog Days
-Dog Days
 Dog Eat Dog
-Dog in the Manger
 Dog in the Manger
 Dogs Bark, but the Caravan Moves On.
 Dogs Have Masters, Cats Have Staff.
@@ -849,7 +799,6 @@ Don't Bite of More Than You Can Chew
 Don't Bite the Hand That Feeds You
 Don't Burn Your Bridges
 Don't Change Horses in Midstream
-Don't Count Your Chickens Before They're Hatched
 Don't Count Your Chickens Before They're Hatched
 Don't Do Anything I Wouldn't Do
 Don't Do the Crime if You Can't Do the Time
@@ -901,7 +850,6 @@ Dot the I's and Cross the T's
 Double Dutch
 Double Whammy
 Doubting Thomas
-Doubting Thomas
 Do Unto Others As You Would Have Other Do Unto You.
 Do What It Takes
 Down and Dirty
@@ -913,10 +861,8 @@ Down on Your/his Luck
 Down Pat
 Down the Drain/toilet
 Down the Hatch
-Down the Hatch
 Down the Pan
 Down the Tubes
-Down to Earth
 Down to Earth
 Down to the Wire
 Drain the Lizard
@@ -954,7 +900,6 @@ E-ticket
 Eager Beaver
 An Earful
 Early Bird Catches the Worm
-Early Bird Catches the Worm
 The Early Bird Catches the Worm
 Early to Bed, Early to Rise Makes a Man Healthy, Wealthy and Wise,
 Earmark Something
@@ -963,11 +908,9 @@ Earn One's Stripes
 The Earth Moved
 Ear to the Ground
 Easier Said Than Done
-Easier Said Than Done
 Easy As 1-2-3
 Easy As 123
 Easy As Abc
-Easy As Pie
 Easy As Pie
 Eat, Drink and Be Merry
 Eat Crow
@@ -1007,7 +950,6 @@ Everything's Coming Up Roses
 Everything's Copasetic
 Everything's Hunky Dory
 Everything but the Kitchen Sink
-Everything but the Kitchen Sink
 Every Tom, Dick, and Harry
 Every Which Way but Loose
 Evil Twin
@@ -1033,7 +975,6 @@ A Faint Heart Never a True Love Knows
 Fair-haired One
 Fair and Square,
 Fair Play
-Fair Weather Friend
 Fair Weather Friend
 Fait Accompli
 Faith Can Move Mountains
@@ -1122,7 +1063,6 @@ Flog a Dead Horse
 The Floozie in the Jacuzzi
 Flotsam and Jetsam
 Flown the Coop
-Fly by Night
 Fly by Night
 Fly by the Seat of Your Pants
 Flying by the Seat of Your Pants
@@ -1387,14 +1327,12 @@ The Greatest Thing Since Sliced Bread
 The Great Unwashed
 Greek to Me
 Green-eyed Monster
-Green-eyed Monster
 Greener Pastures
 Green Thumb
 Green with Envy
 Grin and Bear It
 Grin Like a Cheshire Cat
 Grinning from Ear to Ear
-Grist for the Mill
 Grist for the Mill
 Groundhog Day
 Ground Rules
@@ -1404,7 +1342,6 @@ Gum Up the Works
 Gunning for
 Guns Blazing
 Had His Bell Rung
-Hair of the Dog
 Hair of the Dog
 A Hair of the Dog That Bit You
 The Hairy Eyeball
@@ -1444,9 +1381,7 @@ Have 'em in Stitches
 Have a Heart
 Have an Ax to Grind
 Have a Nice Day
-Have a Nice Day
 Haven't Got a Penny to My Name
-Haven't Got a Row to Hoe
 Haven't Got a Row to Hoe
 Haven't Seen Hide nor Hair of Him
 Have the Last Laugh
@@ -1519,7 +1454,6 @@ He Learned His Lesson
 He Left No Stone Unturned
 He Let the Cat out of the Bag
 Hell-bent for Leather
-Hell-bent for Leather
 Hell Has No Fury Like a Woman Scorned.
 Hell or High Water
 He Looks Like Death Warmed Up
@@ -1587,7 +1521,6 @@ Hold Down the Fort
 Holding All the Cards
 Hold the Phone
 Hold Your Horses
-Hold Your Horses
 Hold Your Tongue
 Holier Than Thou
 Home is Where the Heart is
@@ -1599,7 +1532,6 @@ Hope Against Hope
 Hope Springs Eternal.
 A Horse, a Horse, My Kingdom for a Horse
 Horse Around,
-Horse of a Different Color
 Horse of a Different Color
 A Horse of a Different Color
 Horse Play
@@ -1725,13 +1657,11 @@ Imitation is the Sincerest Form of Flattery
 In a New York Minute
 In an Interesting Condition
 In a Nutshell
-In a Nutshell
 In a Pickle,
 In a Pig's Eye
 In a Pinch
 In a Quandary
 In a Trice
-In a Wink
 In a Wink
 In Bed with One's Boots on
 In Cahoots with
@@ -1748,7 +1678,6 @@ In for a Fleecing
 In for a Penny, in for a Pound.
 In for the Long Haul
 In Full Cry
-In Harm's Way
 In Harm's Way
 In My Mind's Eye
 Innocent As the Day He Was Born
@@ -1781,8 +1710,6 @@ In the Tank
 In the Twinkling of an Eye
 In Two (2) Shakes of a Lamb's Tail
 In Your Dreams
-In Your Dreams
-In Your Face
 In Your Face
 I Ought to Tan Your Hide.
 I Put Two and Two Together...
@@ -1861,7 +1788,6 @@ It Was a White-knuckle Ride
 It Will Be a Cold Day in Hell
 It Will Do
 It Won't Fly
-It Won't Fly
 Ivory Tower
 I Want My Place in the Sun.
 I Wasn't Born Yesterday.
@@ -1878,17 +1804,12 @@ Jockey for Position
 Jockeying for Position
 Johnny-come-lately
 Joined at the Hip
-Joined at the Hip
 Join the Ranks
 A Journey of a Thousand Miles Begins with the First Step
 Jump Down Your Throat
-Jump Down Your Throat
 Jump Her/his Bones
 Jump in with Both Feet
-Jump in with Both Feet
 Jump on the Bandwagon
-Jump on the Bandwagon
-Jump the Gun
 Jump the Gun
 Junk in the Trunk
 Jury is Still out
@@ -1900,7 +1821,6 @@ Just Around the Bend
 Just a Second
 Just As Sweet As You Please
 Just Fell off the Turnip Truck
-Justice is Blind
 Justice is Blind
 Just Like Riding a Bike
 Just the Tip of the Iceberg
@@ -1920,7 +1840,6 @@ Keep Danger at Bay
 Keeping (staying) on Top of It
 Keeping the World Safe for Democracy
 Keep It Down
-Keep It Down
 Keep It Simple, Stupid
 Keep It Simple, Stupid (kiss)
 Keep It Under Your Hat
@@ -1933,21 +1852,17 @@ Keeps on Ticking
 Keep the Ball Rolling
 Keep the Home Fires Burning
 Keep Up with the Joneses
-Keep Up with the Joneses
 Keepy-uppy
 Keep Your Cards Close to Vest
-Keep Your Chin Up
 Keep Your Chin Up
 Keep Your Eye on the Ball
 Keep Your Eyes Open
 Keep Your Eyes Peeled
 Keep Your Fingers Crossed
-Keep Your Fingers Crossed
 Keep Your Hair on
 Keep Your Nose to the Grindstone
 Keep Your Pants on
 Keep Your Pecker Up
-Keep Your Powder Dry
 Keep Your Powder Dry
 Keep Your Shirt on
 Keep Your Shoulder to the Wheel
@@ -1961,12 +1876,10 @@ Kicked (took It) in the Huevos
 Kick Him/her to the Curb
 Kick Some Butt (ass)
 Kick the Bucket
-Kick the Bucket
 Kick Up Your Heels
 Kick Your Feet Up
 Kick Your Heels
 Kick You to the Curb
-Kid in a Candy Store
 Kid in a Candy Store
 Kill 'em with Kindness
 Kill Two Birds with One Stone
@@ -1974,15 +1887,11 @@ King's English
 King's Ransom
 King of the Hill
 Kiss and Tell
-Kiss and Tell
-Kiss Ass
 Kiss Ass
 Kissing the Rose
 Kiss of Death
-Kiss of Death
 Kit and Kaboodle
 Kitten on the Keys
-Knee-high to a Grasshopper
 Knee-high to a Grasshopper
 Knee-jerk Reaction
 A Knight in Shining Armor
@@ -1990,30 +1899,23 @@ Knock 'em Dead
 A Knock-back
 Knocked into a Cocked Hat
 Knocked Up
-Knocked Up
 Knock It off
-Knock It out of the Park
 Knock It out of the Park
 Knock off (work)
 Knock on Wood
-Knock on Wood
 Knock the Cover off the Ball
 Knock Yourself out
-Knock Your Socks off
 Knock Your Socks off
 Know Him from Adam
 Know It Like the Back of My Hand
 Knows It Chapter and Verse
 Know the Ropes
-Know the Ropes
-Know the Score
 Know the Score
 Know What's Up
 Know Where You Stand
 Know Which Side Your Bread is Buttered on
 Know Which Way the Wind Blows
 Know Your Onions
-Knuckle Down
 Knuckle Down
 Knuckle Sandwich
 Knuckle Under
@@ -2029,10 +1931,7 @@ Lardy-dardy
 Lark About
 Last, but Not Least
 Last-ditch Effort
-Last-ditch Effort
 Last but Not Least
-Last but Not Least
-Last Hurrah
 Last Hurrah
 The Last Straw
 Laugh a Minute
@@ -2042,7 +1941,6 @@ Laugh Like a Drain
 Laughter is the Best Medicine
 Law of the Jungle
 Law of the Land
-Lay Down the Law
 Lay Down the Law
 Lay It on with a Trowel
 Lay It out in Lavender
@@ -2076,7 +1974,6 @@ Let Me Bend Your Ear
 Let Not the Sun Go Down on Your Wrath.
 Let Sleeping Dogs Lie
 Let Sleeping Dogs Lie.
-Let the Cat out of the Bag
 Let the Cat out of the Bag
 Let Them Eat Cake
 Let There Be Light
@@ -2130,7 +2027,6 @@ Like Balling the Jack
 Like Being Savaged by a Dead Sheep.
 Like Billy-o
 Like Butter
-Like Butter
 Like Chalk and Cheese (english)
 Like Father, Like Son.
 Like Flies on Sh#t.
@@ -2154,7 +2050,6 @@ Like White on Rice.
 Lily-livered
 Line in the Sand
 Lion's Share
-Lion's Share
 Lions Led by Donkeys
 Lipstick on a Pig
 Litmus Test
@@ -2165,7 +2060,6 @@ Little of This, a Little of That
 A Little of This, a Little of That
 Little Strokes Fell Great Oaks
 A Little Yeast Works Through the Whole Batch of Dough
-Live and Learn
 Live and Learn
 Live and Let Live
 Live Long and Prosper
@@ -2182,7 +2076,6 @@ Load of Cobblers / Codswallop
 Lo and Behold
 Loaves and Fishes
 Lock, Stock, and Barrel
-Long and Short of It
 Long and Short of It
 Long Arm of the Law
 The Long Arm of the Law
@@ -2229,7 +2122,6 @@ Lower the Boom
 The Lowest on the Totem Pole
 Low Man on the Totem Pole
 Luck of the Draw
-Luck of the Draw
 The Luck of the Draw
 Luck of the Irish
 Lucky Stiff
@@ -2275,7 +2167,6 @@ Making Whoopee
 Mal De Mer
 Male Chauvinist
 Man's Best Friend
-Man's Best Friend
 A Man's Home is His Castle
 A Man After My Own Heart
 Man Does Not Live by Bread Alone
@@ -2290,7 +2181,6 @@ Many Hands Make Light Work.
 Many Moons
 March to the Beat of a Different Drummer
 Marking Time
-Mark My Words
 Mark My Words
 Marry in Haste, Repent at Leisure.
 Matter-of-fact
@@ -2324,7 +2214,6 @@ Missed the Boat
 Moaning Minnie
 Moment's Respite
 Moment of Glory
-Monday Morning Quarterback
 Monday Morning Quarterback
 Money Burns a Hole in His Pocket
 Money Can't Buy You Happiness
@@ -2429,14 +2318,12 @@ The Night is Young and So Are We
 Nine Days' Wonder
 Nip and Tuck
 Nip It in the Bud
-Nip It in the Bud
 Nitty-gritty,
 A No-brainer
 No Accounting for Taste
 No Dice
 Nod off
 No Go
-No Guts, No Glory
 No Guts, No Glory
 No Holds Barred
 No If's, And's, or But's About It
@@ -2447,7 +2334,6 @@ None of Your Business.
 None Too Pleased
 Noodle on
 No One Here but Us Chickens!
-No Pain, No Gain
 No Pain, No Gain
 No Rest for the Wicked,
 No Room to Swing a Cat
@@ -2605,7 +2491,6 @@ On the Take
 On the Tip of My Tongue
 On the Up and Up
 On the Wagon
-On the Wagon
 On the Warpath
 On the Whole
 On Thin Ice
@@ -2627,7 +2512,6 @@ An Ounce of Prevention is Worth a Pound of Cure.
 Out for a Sunday Stroll
 Out Like a Light
 Out of Gas
-Out of Pocket
 Out of Pocket
 Out of Sight, out of Mind
 Out of Sorts
@@ -2689,11 +2573,9 @@ Pay Lip Service
 Pay the Debt of Nature
 Pay the Piper
 Pay Through the Nose
-Pay Through the Nose
 Peaches and Cream Complexion
 Pearls Before Swine
 Pears for Your Heirs
-Peas in a Pod
 Peas in a Pod
 Peel (back) the Onion
 Peel out
@@ -2728,7 +2610,6 @@ Pie in the Sky
 Pig's Ear
 Pig and Whistle
 Pigeon-chested
-Pig in a Poke
 Pig in a Poke
 A Pig in a Poke
 Pig out
@@ -2783,7 +2664,6 @@ Pop Goes the Weasel
 Any Port in a Storm
 Posh - Port Out, Starboard Home
 Possession is Nine-tenths of the Law.
-Pot Calling the Kettle Black
 Pot Calling the Kettle Black
 The Pot Calling the Kettle Black
 Pot of Gold at the End of the Rainbow.
@@ -2872,7 +2752,6 @@ Rag, Tag and Bobtail
 Rags to Riches
 Raining Buckets
 Raining Cats and Dogs
-Raining Cats and Dogs
 Raining Stair-rods
 Raise the Bar
 Raise the Roof
@@ -2892,10 +2771,8 @@ Read the Fine Print
 Read the Handwriting on the Wall
 Real Mccoy
 The Real Mccoy
-The Real Mccoy
 Red Carpet Treatment
 Redheaded Stepchild
-Red Herring
 Red Herring
 Red in Tooth and Claw
 Red Letter Day
@@ -2988,7 +2865,6 @@ Say Your Prayers
 Scarce As Hen's Teeth
 Scared Dogs Bark Most. (swedish)
 Scared of His Own Shadow
-Scared Stiff
 Scared Stiff
 Scared to Death
 Scaredy-cat
@@ -3118,7 +2994,6 @@ Signed, Sealed and Delivered
 Significant Other
 Silenced the Crowd
 Silence is Golden
-Silence is Golden
 Silly Billy
 Silver Bullet
 Simple Pleasures Are the Best
@@ -3215,7 +3090,6 @@ Spinning Your Wheels
 Spit in One Hand and Wish in the Other, and See Which One You Have the Most In.
 Spit the Dummy (australian)
 Spitting Image
-Spitting Image
 Split Second
 Splitting Hairs
 Spoil the Fun
@@ -3235,7 +3109,6 @@ Star-crossed Lovers
 Staring off into Space/nowhere
 Stark-raving Mad
 Start from Scratch
-Start from Scratch
 State of the Art
 Stayed Too Long at the Fair
 Staying Power
@@ -3249,7 +3122,6 @@ Step on a Crack, Break Your Mother's Back
 Step on It
 Stepping on People's Toes
 Stick a Fork in It (him, Me)
-Stick in the Mud
 Stick in the Mud
 Stick in Your Craw
 Stick It in Your Ear
@@ -3267,14 +3139,12 @@ Stiff As a Board
 Stiffen the Sinews
 Still As a Church Mouse
 Still Waters Run Deep
-Still Waters Run Deep
 Stinking to High Heaven
 Stirring Up Trouble
 Stir Up an Ant's Nest
 A Stitch in Time Saves Nine
 A Stone's Throw Away
 Stone the Crows!
-Stop and Smell the Roses
 Stop and Smell the Roses
 Stop on a Dime
 Stop the Presses!
@@ -3299,11 +3169,9 @@ The Stronger the Breeze the Stronger the Trees
 The Strongest Steel is Cast in the Hottest Fire
 The Strongest Winds Blow on the Highest Mountains. (swedish)
 Stubborn As a Mule
-Stubborn As a Mule
 Stuck in a Rut
 Stuck out Like a Sore Thumb
 Stuff and Nonsense
-Stuffed Shirt
 Stuffed Shirt
 Stuff That Dreams Are Made of
 Stump Up
@@ -3361,7 +3229,6 @@ Take It with a Grain of Salt
 Taken Aback
 Taken for a Ride
 Take One for the Team
-Take One for the Team
 Take Potluck
 Takes Its Toll on You
 Take Someone Down a Peg
@@ -3369,14 +3236,12 @@ Takes One to Know One
 Take Stock of
 Take the Bit Between Your Teeth
 Take the Bull by the Horns
-Take the Bull by the Horns
 Take the Crowd out of the Game
 Take the Day off
 Take the Easy Way out
 Take the Gloves off
 Take the Guilt off the Gingerbread
 Take the Mickey
-Take the Plunge
 Take the Plunge
 Take the Wind out of Your Sails
 Take the World by Storm
@@ -3554,7 +3419,6 @@ Throw Gas (gasoline) on the Fire
 Throwing Caution to the Wind
 Throwing out the Baby with the Bathwater
 Throw in the Towel
-Throw in the Towel
 Throw Someone to the Wolves
 Throw the Baby out with the Bathwater
 Throw the Book at Him
@@ -3699,7 +3563,6 @@ Tread Lightly
 Treated Like a Dog
 Trials and Tribulations
 Tried and True
-Tried and True
 Trip Down Memory Lane
 Trip over Your Tongue
 Trip the Light Fantastic
@@ -3731,13 +3594,11 @@ Twiddling Your Thumbs
 The Twilight Years
 Twist My Arm
 Twist of Fate
-Twist of Fate
 Twists and Turns
 Two's Company, Three's a Crowd
 Two-faced
 Two Cents' Worth
 Two Heads Are Better Than One
-Two Left Feet
 Two Left Feet
 Two of a Kind
 Two Ships Passing in the Night
@@ -3755,7 +3616,6 @@ Under My Skin
 Under My Wing
 Understated Elegance
 Under the Gun
-Under the Gun
 Under the Knife
 Under the Same Roof
 Under the Sauce
@@ -3766,7 +3626,6 @@ Unexpected Twist
 The Unkindest Cut of All
 Unless You Are the Lead Dog, the View Never Changes
 Unlucky at Cards, Lucky in Love
-Until the Cows Come Home
 Until the Cows Come Home
 Up a Blind Alley
 Up a Creek Without a Paddle
@@ -3907,7 +3766,6 @@ What the Cat Dragged in
 What the Dickens
 What the Heck/hell
 What You See is What You Get
-What You See is What You Get
 Wheeler-dealer
 When All is Said and Done
 When Hell Freezes over
@@ -3917,7 +3775,6 @@ When It Comes to the Crunch
 When It Rains, It Pours.
 When Life Gives You Lemons, Make Lemonade,
 When Pigs Fly
-When Push Comes to Shove
 When Push Comes to Shove
 When Rubber Meets the Road
 When the Cat's Away
@@ -3977,7 +3834,6 @@ Widow's Peak
 Wig out
 Wild and Woolly
 Wild Goose Chase
-Wild Goose Chase
 Wild Oats
 Will Miracles/wonders Never Cease?
 Will Wonders Never Cease
@@ -3990,7 +3846,6 @@ Win Hands Down
 Winning Combination
 A Winning Combination
 Winning Isn't Everything
-Win One for the Gipper
 Win One for the Gipper
 Wipe the Slate Clean
 Wisdom of the Ages
@@ -4015,7 +3870,6 @@ Words Fail
 Worker Bee
 Working My Last Good Nerve
 Work into a Lather
-Work Like a Dog
 Work Like a Dog
 Work the Crowd
 Work the Room
