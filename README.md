@@ -11,4 +11,6 @@ Kicking this off for... reasons. See [`cliches.txt`](cliches.txt) for the comple
 
 MIT
 
-![Pointless wordcloud of words in the cliche list](https://user-images.githubusercontent.com/121322/185241571-887429db-ecab-4799-965f-47e22c45e735.png)
+<div class="center">
+  <img src="https://user-images.githubusercontent.com/121322/185241571-887429db-ecab-4799-965f-47e22c45e735.png" width="40%">
+</div>
