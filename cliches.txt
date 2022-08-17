@@ -989,7 +989,6 @@ Every dog has his day
 Every dog has its day
 Every fiber of my being
 Every man has his price
-Every man has stupid thoughts, only wise men keep them quiet (swedish)
 Every man for himself
 Every rose has its thorn
 Every tom, dick, and harry
@@ -1651,7 +1650,6 @@ If wishes were horses, beggars would ride
 If you can't beat 'em, join 'em
 If you can't find it, grind it
 If you can't kill the king then don't wound him
-If you can't see the bottom, don't put your foot in the water (swedish)
 If you can't stand the heat, get out of the kitchen
 If you can't take mohammed to the mountain, take the mountain to mohammed
 If you chase two rabbits, both will escape,
@@ -1683,7 +1681,6 @@ In my mind's eye
 In one ear and out the other
 In one fell swoop
 In seventh heaven
-In still weather everyone is a good sailor (swedish)
 In stitches
 In two (2) shakes of a lamb's tail
 In your dreams
@@ -2088,7 +2085,6 @@ Lose your mind
 Lose your shirt
 Lost his shirt
 Lost a step
-Lots of honey makes bees lazy (swedish)
 Lounge lizard
 Love conquers all
 Love thy neighbor
@@ -2293,7 +2289,6 @@ No stone unturned
 No strings attached
 No time like the present
 No use crying over spilled milk
-No victory without a battle (swedish)
 No way (or why) on god's green earth
 No way, josé,
 Nod off
@@ -2324,7 +2319,6 @@ Nothing succeeds like success
 Nothing up my sleeve
 Nothing ventured, nothing gained
 Nothing is certain but death and taxes
-Nothing is impossible for those who don't have to do it themselves (swedish)
 Nothing to fear but fear itself
 Nothing to sneeze at
 Nothing to write home about
@@ -2780,7 +2774,6 @@ Sawing a log
 Say what you will, 
 Say your prayers
 Scarce as hen's teeth
-Scared dogs bark most (swedish)
 Scared stiff
 Scared of his own shadow
 Scared to death
@@ -2876,7 +2869,6 @@ Shoot the breeze
 Shooting for the moon
 Short changed
 Short end of the stick
-Short pleasures are often long regretted (swedish)
 Short shrift
 Shot across the bows
 Shot in the dark
@@ -3335,7 +3327,6 @@ The squeaky wheel gets the grease
 The straw that broke the camel's back
 The stronger the breeze the stronger the trees
 The strongest steel is cast in the hottest fire
-The strongest winds blow on the highest mountains (swedish)
 The tables are turned
 The tail that wagged the dog
 The tale of the tape
@@ -3797,7 +3788,6 @@ When the cat's away, the mouse will play
 When the chips are down
 When the going gets tough, the tough get going
 When the going gets tough, the tough get going
-When the lion is dead, the hares jump on his back (swedish)
 When the shit hits the fan
 When the tide goes out the rocks begin to show
 Where do you draw the line?
@@ -3809,7 +3799,6 @@ Whet your appetite
 Whew!
 While away the hours
 While you live, tell truth and shame the devil!
-While the tailor rests, the needle rusts (swedish)
 Whipping boy
 Whistle down the wind
 Whistle for it
@@ -3914,7 +3903,6 @@ You can tell the men from the boys by the price of their toys
 You can't fit a square peg in a round hole
 You can't have your cake and eat it too
 You can't judge a book by its cover
-You can't learn to swim without getting in the water (swedish)
 You can't make a silk purse out of a sow's ear
 You can't put anything past her
 You can't put the toothpaste back in the tube
@@ -3948,14 +3936,12 @@ You made your bed, now your gonna have to lie in it
 You make a better door than a window
 You must be out of your mind
 You must crawl before you can walk
-You must row with the oars that you have (swedish)
 You only hurt the one you love
 You only live once
 You reap what you sow
 You say potayto, I say potahto
 You scratch my back, and I'll scratch yours
 You snooze, you loose
-You throw filth on the living and flowers on the dead (swedish)
 You wash my back, I'll wash yours
 You win some you lose some
 You'll know it when you see it
