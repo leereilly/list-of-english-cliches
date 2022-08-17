@@ -1,41 +1,41 @@
 'tis the season
-(a) day late and a dollar short
-(a) dog's life
-(a) drop in the bucket
-(a) face like a bulldog chewing on a wasp
-(a) face like a burst couch
-(a) face like a dropped meat pie
-(a) face only a mother could love
-(a) face that would scare a dog out of a butcher shop
-(a) fast buck
-(a) feather in his cap
-(a) good beginning makes a good ending
-(a) good man is hard to find
-(a) journey of a thousand miles begins with the first step
-(a) king's ransom
-(a) knock-off
-(a) knuckle sandwich
-(a) long shot
-(a) marked man
-(a) rolling stone gathers no moss
-(a) snail's pace
-(a) stitch in time saves nine
-(a) stone's throw away
-(a) wolf in sheep's clothing
-(at the) eleventh hour
-(tthehe) dog's bollocks
-(the) elephant in the room
-(the) ends justify the means
-(the) face that launched a thousand ships
-(the) fickle finger of fate
-(the) grass is always greener on the other side
-(the) jury is still out
-(the) more things change, the more they stay the same
-(the) more we learn, the less we know
-(the) whole nine yards
-(the) worm has turned
-(toast) close ranks
-(to) egg on
+(A) day late and a dollar short
+(A) dog's life
+(A) drop in the bucket
+(A) face like a bulldog chewing on a wasp
+(A) face like a burst couch
+(A) face like a dropped meat pie
+(A) face only a mother could love
+(A) face that would scare a dog out of a butcher shop
+(A) fast buck
+(A) feather in his cap
+(A) good beginning makes a good ending
+(A) good man is hard to find
+(A) journey of a thousand miles begins with the first step
+(A) king's ransom
+(A) knock-off
+(A) knuckle sandwich
+(A) long shot
+(A) marked man
+(A) rolling stone gathers no moss
+(A) snail's pace
+(A) stitch in time saves nine
+(A) stone's throw away
+(A) wolf in sheep's clothing
+(At the) eleventh hour
+(The) dog's bollocks
+(The) elephant in the room
+(The) ends justify the means
+(The) face that launched a thousand ships
+(The) fickle finger of fate
+(The) grass is always greener on the other side
+(The) jury is still out
+(The) more things change, the more they stay the same
+(The) more we learn, the less we know
+(The) whole nine yards
+(The) worm has turned
+(Toast) close ranks
+(To) egg on
 20/20 hindsight
 A bad egg
 A bed of roses
@@ -3952,7 +3952,7 @@ You're going to get it
 You're a good egg
 You're off your rocker
 You're the gleam in your father's eye
-You've got (a) nerve
+You've got (A) nerve
 You've got more front than myers
 Young loins
 Young and foolish
