@@ -1,4 +1,4 @@
-# Big ol' list o' cliches
+# List of cliches (English)
 
 Kicking this off for... reasons. See [`cliches.txt`](cliches.txt) for the complete list.
 
