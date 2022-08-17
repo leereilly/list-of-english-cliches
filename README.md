@@ -1,6 +1,6 @@
 # Big ol' list o' cliches
 
-Kicking this off for... reasons.
+Kicking this off for... reasons. See [`cliches.txt`](cliches.txt) for the complete list.
 
 ## Sources
 
