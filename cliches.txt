@@ -37,26 +37,134 @@
 (to) Close Ranks
 (to) Egg on
 20/20 Hindsight
+A Bad Egg
+A Bed of Roses
+A Bee in Your Bonnet
+A Bird in the Hand is Worth Two in the Bush
+A Blast from the Past
+A Blot on the Landscape
+A Bolt from the Blue
+A Bull in a China Shop
+A Bun in the Oven
+A Bunch of Fives
+A Chain is Only As Strong As Its Weakest Link
+A Cheap Knock-off
+A Chip off the Old Block
+A Closed Mouth Gathers No Feet
+A Cult of Personality
+A Curate's Egg
+A Daniel Come to Judgement
+A Dead Ringer
+A Diamond in the Rough
+A Diamond is Forever
+A Dish Fit for the Gods
+A Drop in the Bucket
+A Face Only a Mother Could Love
+A Faint Heart Never a True Love Knows
+A Far Cry
+A Fate Worse Than Death
+A Feather in His Cap
+A Few Fries Short of a Happy Meal
+A Few Sandwiches Short of a Picnic
+A Fish out of Water
+A Fly in the Ointment
+A Fool and His Money Are Soon Parted
+A Fool's Paradise
+A Foregone Conclusion
+A Friend in Need is a Friend Indeed
+A Frog in My Throat
+A Game of Two Halves
+A Good Beginning Makes a Good Ending
+A Good Man is Hard to Find
+A Good Rule of Thumb
+A Grammar Guru, Style Editor, and Writing Mentor in One Package.
+A Hair of the Dog That Bit You
+A Half-baked Idea
+A Horse of a Different Color
+A Horse, a Horse, My Kingdom for a Horse
+A House Divided Against Itself Cannot Stand
+A Jack of All Trades and a Master of None
+A Journey of a Thousand Miles Begins with the First Step
+A Knight in Shining Armor
+A Knock-back
+A Labour of Love
+A Legend in One's Own Lifetime
+A Leopard Doesn't Change Its Spots
+A Lick and a Promise
+A Little Bird Told Me
+A Little Knowledge is a Dangerous Thing
+A Little Yeast Works Through the Whole Batch of Dough
+A Little of This, a Little of That
+A Load of (old) Cobblers
+A Long Ways Away
+A Lot of Empty Flattery
+A Man After My Own Heart
+A Man for All Seasons
+A Man's Home is His Castle
+A Mexican Standoff
+A Mexican Wave
+A Mickey Finn
+A Mind is a Terrible Thing to Waste
+A Moveable Feast
+A Multitude of Sins
+A Nation of Shopkeepers
+A Necessary Evil
+A Nest-egg
+A New Do
+A New Lease of Life
+A No-brainer
+A Penny Saved is a Penny Earned
+A Picture's Worth a Thousand Words
+A Pig in a Poke
+A Pink Elephant
+A Place for Everything and Everything in Its Place
+A Plague on Both Your Houses
+A Riddle Wrapped Up in an Enigma
+A Rolling Stone Gathers No Moss
+A Rose by Any Other Name Would Smell As Sweet
+A Rose is a Rose is a Rose
+A Rum Do
+A Safe Pair of Hands
+A Sea Change
+A Shoestring Budget
+A Shot Across the Bows
+A Shot in the Arm
+A Shot in the Dark
+A Shotgun Wedding
+A Sight for Sore Eyes
+A Sledgehammer to Crack a Nut
+A Sorry Sight
+A Spoon Full of Sugar Helps the Medicine Go Down
+A Sticky Wicket
+A Stitch in Time Saves Nine
+A Stone's Throw Away
+A Sweet Deal
+A Taste of His Own Medicine
+A Thorn in the Flesh
+A Tinker's Damn
+A Watched Pot Never Boils
+A White Elephant
+A Wide Berth
+A Winning Combination
+A Wolf in Sheep's Clothing
+A Woman Needs a Man Like a Fish Needs a Bicycle
 Abandon Ship
 Ablaze with Light
 About Face
 Above Board
 Absence Makes the Heart Grow Fonder
 Absolute Power Corrupts Absolutely
-Ace in the Hole
 Ace Up His Sleeve
 Ace Up Your Sleeve
+Ace in the Hole
 Achilles' Heel
 Acid Test
-The Acorn Doesn't Fall Far from the Tree
-Actions Speak Louder Than Words
 Act the Giddy Goat
+Actions Speak Louder Than Words
 After My Own Heart
 Ah, to Be Young and Foolish
 Airing Dirty Laundry
 Airing Dirty Laundry (in Public)
-All's Fair in Love and War
-All's Well That Ends Well.
 All Bent out of Shape
 All Bets Are off
 All Booster, No Payload
@@ -64,59 +172,68 @@ All Dressed Up and Nowhere to Go
 All Ears
 All Fingers and Thumbs
 All Foam, No Beer
-All for One, and One for All
 All Hammer, No Nail
 All Hands on Deck
 All Hands to the Pump
 All Hat, No Cattle
 All Heck (hell) Breaks Loose
 All Icing, No Cake
-All in a Day's Work
-All in Due Time.
-All is Vanity
 All Lime and Salt, No Tequila.
 All Missile, No Warhead
-All over the Map
 All Pale in Comparison
 All Roads Lead to Rome
 All Shot, No Powder
 All Sizzle, No Steak
-All Talk, No Action
 All Talk and No Action
-All That and a Bag of Chips
+All Talk, No Action
 All That Glitters is Not Gold
 All That Jazz
-All the Bits and Pieces
-All the World's a Stage
+All That and a Bag of Chips
 All Thumbs
 All Wax and No Wick
 All Wet
 All Work and No Play, Makes Jack a Dull Boy
+All for One, and One for All
+All in Due Time.
+All in a Day's Work
+All is Vanity
+All over the Map
+All the Bits and Pieces
+All the World's a Stage
+All's Fair in Love and War
+All's Well That Ends Well.
 Almighty Dollar
 Already Got One Paw on the Chicken Coop.
 Alrighty Then!
 Altitude is Determined by Attitude.
+Always Look on the Bright Side.
 Always a Bridesmaid
 Always a Bridesmaid, Never the Bride.
-Always Look on the Bright Side.
-Ambulance Chaser
 Am I My Brother's Keeper?
+Ambulance Chaser
+An Apple a Day Keeps the Doctor Away.
+An Arm and a Leg
+An Earful
+An Idle Mind is the Devil's Playground.
+An Ill Wind
+An Oldie, but a Goodie.
+An Ounce of Prevention is Worth a Pound of Cure.
 And You Can Take That to the Bank
 Another Day, Another Dollar
 Another Day, Another Dollar.
 Another Nail in the Coffin.
 Ants in His Pants
 Ants in Your Pants
+Any Friend of Yours is a Friend of Mine.
+Any Port in a Storm
 Anyhoo,
 Anything Goes
-Apple-pie Order
 Apple / Acorn Doesn't Fall Far from the Tree
-An Apple a Day Keeps the Doctor Away.
 Apple of My Eye
-Are You a Man or a Mouse?
+Apple-pie Order
 Are You Fair Dinkum?
+Are You a Man or a Mouse?
 Arm and a Leg
-An Arm and a Leg
 Armchair Quarterback
 Armed to the Teeth
 Army Brat
@@ -134,241 +251,223 @@ As Easy As Pie.
 As Far As the Eye Can See.
 As Fine As Frog's Hair.
 As Good As Gold.
+As Happy As Larry.
 As Happy As a Clam.
 As Happy As a Sandboy.
-As Happy As Larry.
-Ashes to Ashes, Dust to Dust.
 As Honest As the Day is Long.
 As If!
 As Keen As Mustard.
-Ask Me No Questions and I'll Tell You No Lies.
-Ask Not What Your Country Can Do for You, but What You Can Do for Your Country.
-Asleep at the Wheel
 As Luck Would Have It
 As Old As Methuselah
 As Old As Time
 As Plain As the Nose on Your Face.
 As Pleased As Punch
-Ass Backwards
 As Snug As a Bug in a Rug
-Ass over Tea Kettle
 As Straight As a Die
 As Tender As a Mother's Heart.
-As the Crow Flies
-As Useful As a Lead Balloon.
 As Useful As Tits on a Bull.
+As Useful As a Lead Balloon.
 As Welcome As a Skunk at a Lawn Party.
 As White As Snow
 As Ye Sow, So Shall Ye Reap.
+As the Crow Flies
+Ashes to Ashes, Dust to Dust.
+Ask Me No Questions and I'll Tell You No Lies.
+Ask Not What Your Country Can Do for You, but What You Can Do for Your Country.
+Asleep at the Wheel
+Ass Backwards
+Ass over Tea Kettle
 At Loggerheads
 At Sixes and Sevens
-Atta (that's A) Boy.
-Atta Girl.
+At Your Wits' End
 At the Crack of Dawn
 At the Drop of a Hat
 At the Eleventh (11th) Hour
 At the End of My Rope / Tether
 At the End of the Day...
 At the Last Minute
-At Your Wits' End
+Atta (that's A) Boy.
+Atta Girl.
 Ax to Grind
 Babe in the Woods
 Baby Blues
 Baby Boomer
-Back-handed Comment / Compliment
-Back-seat Driver
-Back-stabber
 Back Against the Wall
+Back It Up
 Back from the Dead
 Back in a Sec
 Back in the Saddle
-Back It Up
-The Back of Beyond
-Backroom Boy
 Back the Field
 Back to Basics
 Back to Square One
 Back to the Drawing Board
+Back-handed Comment / Compliment
+Back-seat Driver
+Back-stabber
+Backroom Boy
 Bad Blood
 Bad Call
-A Bad Egg
-Badge of Honor
-Badgered to Death
 Bad Hair Day
-Badonkadonk
 Bad Seed
 Bad to the Bone
-Bag and Baggage
+Badge of Honor
+Badgered to Death
+Badonkadonk
 Bag Lady
+Bag and Baggage
 Bags All Packed and Ready to Go.
 Bait and Switch
 Baker's Dozen
-The Balance of Power
 Ball and Chain
 Ball is in Your Court
 Ballpark Figure
 Balls to the Wall
 Banding Together to Beat the Odds.
 Bandy Words
-Banging Your Head Against a Brick Wall.
 Bang on About
+Banging Your Head Against a Brick Wall.
 Bank on It
 Baptism by / of Fire
 Baptism of Fire
 Bare Bones
 Barefaced Liar
 Barge (right) in
+Bark Up the Wrong Tree
+Bark is Worse Than the Bite
 Barking Mad
 Barking Up the Wrong Tree.
-Bark is Worse Than the Bite
-Bark Up the Wrong Tree
 Basket Case
 Bat an Eyelid
-Bated Breath
 Bat out of Hell
+Bat the Idea Around
+Bated Breath
 Bats in the Belfry
 Batten Down the Hatches
-Bat the Idea Around
 Battle Royal
 Be Afraid, Be Very Afraid.
+Be Still, My Beating Heart.
+Be There or Be Square.
+Be in the Same Boat
 Bear Down
 Beast with Two Backs
 Beat About / Around the Bush
-Beat a Dead Horse
-Beat a Hasty Retreat
 Beat Around the Bush
 Beat Him by a Long Chalk
 Beat It!
-Beats Me
 Beat Swords into Ploughshares.
+Beat a Dead Horse
+Beat a Hasty Retreat
 Beat the Bushes
 Beat the Living Daylights out of Someone.
+Beats Me
+Beauty is Only Skin Deep.
 Beauty is a Fading Flower.
 Beauty is in the Eye of the Beholder.
-Beauty is Only Skin Deep.
-A Bed of Roses
-Bee's Knees
-The Bee's Knees
 Bee in Her Bonnet
-A Bee in Your Bonnet
+Bee's Knees
 Beelzebub Has a Devil for a Sideboard.
 Been There, Done That
 Beetle-browed
 Before You Could Say Jack Robinson.
 Before You Were the Gleam in Your Father's Eye.
-Beggars Can't Be Choosers
 Beg the Question
+Beggars Can't Be Choosers
 Behind Every Great Man There's a Great Woman.
 Behind the Eight (8) Ball
 Behind the Eight Ball
 Behind the Times
 Being Led Down the Garden Path
-Be in the Same Boat
 Belle of the Ball
-The Belle of the Ball
 Bells and Whistles
 Below the Belt
-Belt and Braces
 Belt Up
+Belt and Braces
 Bend over Backwards
 Bent out of Shape
-Best-laid Plans of Mice and Men
 Best Bib and Tucker
 Best Foot Forward
-Be Still, My Beating Heart.
-The Best Thing Since Little Apples
 Best Thing Since Sliced Bread
-The Best Things in Life Are Free
-Be There or Be Square.
+Best-laid Plans of Mice and Men
+Bet Your Bottom Dollar
+Bet the Farm
 Better Half
 Better Late Than Never
 Better Light a Candle Than Curse the Darkness.
 Better Mousetrap
 Better Safe Than Sorry
-Better Than a Kick in the Teeth
 Better Than Ever
+Better Than a Kick in the Teeth
 Better the Devil You Know
 Better the Devil You Know Than the Devil You Don't.
 Better to Have Loved and Lost Than Never to Have Loved at All.
 Better to Remain Silent and Be Thought a Fool That to Speak and Remove All Doubt.
-Bet the Farm
-Between a Rock and a Hard Place
-Between the Devil and the Deep Blue Sea
 Between Two Stools
 Between You, Me and the Bed-post
-Bet Your Bottom Dollar
+Between a Rock and a Hard Place
+Between the Devil and the Deep Blue Sea
 Beware of Greeks Bearing Gifts.
 Beware the Ides of March.
 Beyond Our Ken
 Beyond the Pale
 Bib and Tucker
-Big-wig
-The Big Apple
-Big As a House
 Big As Life
+Big As a House
 Big Cheese
-The Big Cheese
-The Big Easy
 Big Fish in a Small Pond
-Bigger They Are, the Harder They Fall
-Bigger They Are the
-The Bigger They Are the Harder They Fall
 Big Man on Campus
 Big Picture
+Big-wig
+Bigger They Are the
+Bigger They Are, the Harder They Fall
 Billy No-mates
 Biological Clock is Ticking
 Bird in a Gilded Cage
 Bird in the Hand
 Bird in the Hand is Worth Two (2) in the Bush.
-A Bird in the Hand is Worth Two in the Bush
 Birds and the Bees
 Birds of a Feather Flock Together.
 Birds of the Feather
 Bite Me
+Bite Your Tongue
 Bite off More Than You Can Chew
 Bite the Bullet
 Bite the Dust
-Bite Your Tongue
 Bitter Disappointment
-The Bitter End
-Black-on-black
 Black As Coal
 Black As Pitch
-Blackball Someone
 Black Sheep of the Family
+Black-on-black
+Blackball Someone
 Blast from the Past
-A Blast from the Past
 Blaze a New Trail
-Bleeding Heart
 Bleed Like a Stuck Pig
+Bleeding Heart
 Blew Him Away
 Blew His Wad
 Blind As a Bat
 Blind Leading the Blind
-The Blind Leading the Blind
 Blonde Bombshell
-Blood and Thunder
 Blood Brothers
+Blood Money
+Blood Sweat and Tears
+Blood and Thunder
 Blood is Thicker Than Water
 Blood is Thicker Than Water.
-Blood Money
 Blood on Your Hands
-Blood Sweat and Tears
 Bloody-minded
 Bloom is off the Rose
-A Blot on the Landscape
-Blow a Gasket
 Blow Chunks
-Blowing Smoke (up My Ass)
 Blow It
 Blow Me Down
-Blown Away
-Blow the Whistle on
 Blow This Joint
 Blow This Pop Stand / Joint
 Blow Your Brains out
 Blow Your Mind
 Blow Your Own Trumpet
+Blow a Gasket
+Blow the Whistle on
+Blowing Smoke (up My Ass)
+Blown Away
 Blue Blood
 Blue in the Face
 Blunt Words Have the Sharpest Edge
@@ -378,34 +477,30 @@ Bodice Ripper
 Bog Standard
 Boil It Down to
 Boils Down to
-A Bolt from the Blue
-The Bomb
-Bone-chilling Cold
 Bone Dry
 Bone Idle
+Bone Up on
 Bone of Contention
 Bone to Pick
-Bone Up on
+Bone-chilling Cold
 Booby Prize
 Booby Trap
 Boot is on the Other Foot
-Booze and Broads
 Booze Cruise
+Booze and Broads
 Bored to Tears
+Born Within the Sound of the Bow Bells.
+Born Yesterday
 Born and Raised
 Born with a Silver Spoon in His Mouth.
 Born with a Silver Spoon in Your Mouth
-Born Within the Sound of the Bow Bells.
-Born Yesterday
 Botch the Job
 Both Barrels
 Bottom Drawer
 Bottom Line
-The Bottom Line
 Bottom of the Barrel
 Bought the Farm
 Bounce Back
-The Bowels of the Earth
 Bowl Someone over
 Box Yourself in
 Boys Will Be Boys.
@@ -414,7 +509,6 @@ Brain Drain
 Brain Dump
 Brand Spanking New
 Brass Tacks
-The Bread of Life
 Break a Leg
 Break the Ice
 Bright As a Button
@@ -422,79 +516,74 @@ Bring Home the Bacon
 Bring It on
 Bring Sand to the Beach
 Broad in the Beam
-Broken Record
 Broke the Bank
+Broken Record
 Brother's Keeper (thy)
 Brother, Can You Spare a Dime?
 Brownie Points
-Buckle Down
 Buck Naked,
 Buck Stops Here
-The Buck Stops Here
+Buckle Down
 Build a Better Mousetrap and the World Will Beat a Path to Your Door.
 Built Like a Brick Sh#thouse
 Built Like a Tank
 Built to Last
 Bull by the Horns
 Bull in a China Shop
-A Bull in a China Shop
+Bum Steer
 Bummer
 Bump in the Night
 Bump in the Road
 Bump on a Log
 Bums on Seats
-Bum Steer
-A Bunch of Fives
 Bun in the Oven
-A Bun in the Oven
 Bunny Boiler
-Burning Up the Track
-Burn the Candle at Both Ends
-Burn the Midnight Oil
 Burn Your Bridges
 Burn Your Ships
-Bury the Hatchet
+Burn the Candle at Both Ends
+Burn the Midnight Oil
+Burning Up the Track
 Bury Your Head in the Sand
+Bury the Hatchet
 Business As Usual
 Business at Hand
-Busting a Gut
 Bust Your Balls
 Bust Your Chops
+Busting a Gut
 Busy As a Bear in a Beehive
 Busy As a Bee
 Busy As a One-armed Paperhanger
 Busy As a One-legged Man in an Ass-kicking Contest
 Busy Hands Are Happy Hands
 But Enough About Me ...
-The Butler Did It
 But Seriously
-Butterflies in His Stomach
+Butt of a Joke
 Butter Him Up
 Butter Wouldn't Melt in His Mouth.
-Butt of a Joke
+Butterflies in His Stomach
+Buy Something for a Song
 Buy a Pig in a Poke
 Buy into
-Buy Something for a Song
 By All Means, After You
-By and Large
 By George
 By Gum
 By Hook or by Crook
+By and Large
 By the Same Token
 By the Skin of Your Teeth
-Call a Spade a Spade.
 Call It a Day
+Call a Spade a Spade.
 Call off the Dogs
-The Call of the Wild
 Call the Shots
 Calm Before the Storm
-The Camera Cannot Lie
+Can It!
+Can of Whoop Ass
+Can of Worms
 Can't (won't) Get to First Base with Her
 Can't Beat That with a Stick
 Can't Blame Him for Trying
 Can't Cut It
 Can't Cut the Mustard
-Can't for the Life of Me Remember
 Can't Get a Word in Edgewise
 Can't Have Your Cake and Eat It Too
 Can't Hold a Candle to
@@ -504,10 +593,8 @@ Can't Say Enough About Him
 Can't Squeeze Blood out of a Turnip
 Can't Teach an Old Dog New Tricks
 Can't Win for Losing
+Can't for the Life of Me Remember
 Candle at Both Ends
-Can It!
-Can of Whoop Ass
-Can of Worms
 Cant Say's I Would
 Carbon Copy
 Carpe Diem (seize the Day)
@@ -519,75 +606,68 @@ Carte Blanche
 Case in Point
 Case of Mistaken Identity
 Cash Cow
+Cash It in
 Cash in Your Chips
 Cash is King
-Cash It in
 Cash on the Nail
 Cast a Very Long Shadow
-The Cat's Meow
-The Cat's Pajamas
-Cat's Whiskers
-The Cat's Whiskers
-Cat-like Grace
-Catch (get) My Drift?
-Catch-22 (situation)
-Catch a Falling Knife
-Catch Forty / 40 Winks
-Catch Hell if I Do
-Catching Some Zs
-Catch on
 Cat Got Your Tongue
 Cat Got Your Tongue?
 Cat out of the Bag
-Caught Between a Rock and a Hard Place
+Cat's Whiskers
+Cat-like Grace
+Catch (get) My Drift?
+Catch Forty / 40 Winks
+Catch Hell if I Do
+Catch a Falling Knife
+Catch on
+Catch-22 (situation)
+Catching Some Zs
 Caught Between Scylla and Charybdis
-Caught by the Short Hairs
-Caught in the Crossfire
+Caught Between a Rock and a Hard Place
 Caught Me Off-guard
 Caught Red-handed
+Caught by the Short Hairs
+Caught in the Crossfire
 Caught with His Hands in the Till
 Caught with His Pants Down
 Caught with Your Hand in the Cookie Jar
 Chain is Only As Strong As It's Weakest Link
-A Chain is Only As Strong As Its Weakest Link
 Chalk and Cheese
-Champagne Tastes and a Beer Budget
 Champ at the Bit
-Changes Hands
+Champagne Tastes and a Beer Budget
 Change Your Tune
+Changes Hands
 Channel Surfing
 Chapter and Verse
 Charity Begins at Home.
-Charmed Life
 Charm Offensive
 Charm the Pants off
+Charmed Life
 Chatty Cathy
-Cheap at Half the Price
-A Cheap Knock-off
 Cheap Shot
 Cheap Trick
+Cheap at Half the Price
+Check It out
 Check's in the Mail
 Checkered Career
-Check It out
 Cherchez La Femme
-Chewing Nails and Spitting Tacks
 Chew out
 Chew the Cud
 Chew the Fat
-Chickens Come Home to Roost
-The Chickens Come Home to Roost
+Chewing Nails and Spitting Tacks
 Chick Flick
+Chickens Come Home to Roost
 Chief Cook and Bottle Washer
 Child's Play
 Children Should Be Seen and Not Heard
 Chink in the Armor
 Chip in
 Chip off the Old Block
-A Chip off the Old Block
 Chip on His Shoulder
 Chit-chat
-Chock-a-block
 Chock Full
+Chock-a-block
 Chomping at the Bit
 Chop and Change
 Chow Down
@@ -597,52 +677,49 @@ Clapped out
 Clash of the Titans
 Clean As a Whistle
 Clean Bill of Health
+Clean Sweep
 Cleanliness is Next to Godliness
 Cleanliness is Next to Godliness.
-Clean Sweep
-Clear As a Bell
 Clear As Mud
+Clear As a Bell
 Clear Blue Water
 Clear the Air
 Clear the Decks
-Climbing the Walls
 Climb on the Bandwagon
-Close but No Cigar
+Climbing the Walls
 Close Call,
-A Closed Mouth Gathers No Feet
 Close Early and Often
 Close Enough for Jazz
 Close Only Counts in Horseshoes
 Close Quarters
 Close Your Eyes and Think of England.
+Close but No Cigar
 Closing the Barn Door After the Horse Has Bolted
 Cloud-cuckoo-land
 Clucking and Bucking with the Other Hens
 Clue Me in
 Coast to Coast
+Cock Up
 Cock and Bull Story
 Cockles of Your Heart
-Cock Up
 Coin a Phrase
-Cold As a Witch's Tit
 Cold As Ice
+Cold As a Witch's Tit
 Cold Comfort
 Cold Enough to Freeze the Balls off a Brass Monkey
 Cold Feet
 Cold Hands, Warm Heart
 Cold Shoulder
-The Cold Shoulder
 Cold Turkey
-The Collywobbles
 Come A'callin
-Come a Cropper
 Come Again?
 Come Hell or High Water
-Come in Under the Wire
-Come out of the Closet
 Come Up Short
 Come Up Trumps
 Come What May
+Come a Cropper
+Come in Under the Wire
+Come out of the Closet
 Coming Apart at the Seams
 Coming Down in Buckets
 Coming Down the Pike
@@ -650,9 +727,9 @@ Communist Conspiracy
 Comparing Apples to Oranges
 Conniption Fit
 Contemplate My Navel
-Cooking with Gas (now)
 Cook One's Goose
 Cook the Books
+Cooking with Gas (now)
 Cool As a Cucumber
 Cool Britannia
 Cool Your Heels
@@ -667,71 +744,61 @@ Couldn't Do It to Save His Soul / Hide
 Couldn't Fight His Way out of a Wet Paper Sack / Bag
 Couldn't Get to First Base
 Couldn't Make Heads or Tails of It
-Countless Hours
 Count Your Blessings
-The Course of True Love Never Did Run Smooth
+Countless Hours
 Cover My Ass
 Crack Down
-Cracker Jack
-Cracking Up
-The Crack of Doom
 Crack the Code
 Crack the Whip
+Cracker Jack
+Cracking Up
 Crammed in Like Sardines
 Crazy / Mad As a March Hare
 Crazy As a Loon
 Crazy Like a Fox
 Cream of the Crop
-The Cream of the Crop
 Creature Comfort
 Credit Where Credit is Due,
 Creme De La Creme
 Crime Doesn't Pay.
 Crime in the Street
 Crocodile Tears
-Crossing the Rubicon
 Cross the Line
+Crossing the Rubicon
 Cruisin' for a Bruisin'
 Cry Havoc and Let Slip the Dogs of War.
 Cry Me a River
-Cry over Spilled Milk
 Cry Wolf
-A Cult of Personality
-A Curate's Egg
+Cry over Spilled Milk
 Curb Your Enthusiasm
 Curiosity Killed the Cat
 Curry Favor
 Curse a Blue Streak
-The Customer is Always Right
+Cut Corners
+Cut It out
+Cut No Ice
+Cut Your Losses
+Cut Your Teeth
 Cut a Fine Figure
 Cut and Dried
 Cut and Run
-Cut Corners
-Cute As a Button
 Cut from the Same Cloth
-Cut It out
-Cut No Ice
 Cut off Your Nose to Spite Your Face.
-The Cut of Your Jib
+Cut the Mustard
+Cut to the Chase
+Cut to the Quick
+Cute As a Button
 Cuts Like a Knife
 Cuts to the Core
 Cuts to the Quick
-Cut the Mustard
 Cutting Through All the Red Tape
-Cut to the Chase
-Cut to the Quick
-Cut Your Losses
-Cut Your Teeth
 Dagger / Knife in the Heart
 Damned if You Do and Damned if You Don't
-Dances (moves) to the Beat of a Different Drummer
 Dance with the Devil
+Dances (moves) to the Beat of a Different Drummer
 Dangle a Carrot in Front of Him
-A Daniel Come to Judgement
-Darkest Before the Dawn
-The Darkest Hour is Just Before the Dawn
 Dark Horse
-The Darling Buds of May
+Darkest Before the Dawn
 Darting to and Fro
 Dat Dawg Don't Hunt No More
 David Versus Goliath
@@ -740,61 +807,58 @@ Daylight Robbery
 Dead As a Dodo
 Dead As a Doornail
 Dead Ringer
-A Dead Ringer
-Dealt a Fatal Blow
 Deal with It
-Death's Doorstep
+Dealt a Fatal Blow
 Death and Destruction
 Death and Taxes
 Death by a Thousand Cuts
+Death's Doorstep
 Deep in Thought
 Deer in Headlights
 Designer Stubble
 Deus Ex Machina
-The Devil Incarnate
-The Devil is Always Ready to Rock the Cradle of the Saint Who Sleeps
 Devil is in the Details
-The Devil is in the Details
-The Devil Made Me Do It
-The Devil Must Be Beating His Wife
-The Devil Takes the Hindmost
-The Devil to Pay
 Diamond in the Rough
-A Diamond in the Rough
-A Diamond is Forever
 Die-hard
-The Die Has Been Cast
 Different Kettle of Fish
 Dig Yourself into a Hole
 Dim View
 Dip Your Toe in the Water
 Dirt Cheap
-A Dish Fit for the Gods
 Distance Makes the Heart Grow Fonder
-Do a One-eighty / 180
 Do As I Say and Not As I Do.
 Do Birds Fly?
+Do Not Call Us, We Will Call You.
+Do Not Count Your Chickens Before They Hatch.
+Do Not Go There
+Do Not Have a Clue
+Do Not Keep a Dog and Bark Yourself.
+Do Not Look a Gift Horse in the Mouth.
+Do Not Poke the Bear
+Do Not Pull My Leg
+Do Unto Others As You Would Have Other Do Unto You.
+Do What It Takes
+Do a One-eighty / 180
+Do or Die
+Does Not Know Shit from Shinola
 Does a Bear Sh#t in the Woods?
 Doesn't Have a Prayer
 Doesn't Know if She's Washing or Hanging out
 Doesn't Stand a Chance
-Does Not Know Shit from Shinola
-Dog's Breakfast
-Dog's Dinner
-The Dog Ate My Homework
 Dog Days
 Dog Eat Dog
+Dog Tired
 Dog in the Manger
+Dog's Breakfast
+Dog's Dinner
 Dogs Bark, but the Caravan Moves On.
 Dogs Have Masters, Cats Have Staff.
-Dog Tired
-Doing the Horizontal Bop
 Doing Time
-La Dolce Vita
+Doing the Horizontal Bop
 Don't Air Your Dirty Laundry in Public
+Don't Be Such a Big Girl's Blouse (english)
 Don't Be a Party Pooper
 Don't Be a Stick in the Mud
-Don't Be Such a Big Girl's Blouse (english)
 Don't Bite of More Than You Can Chew
 Don't Bite the Hand That Feeds You
 Don't Burn Your Bridges
@@ -807,16 +871,16 @@ Don't Fly off the Handle,
 Don't Get Your Knickers in a Twist (english)
 Don't Get Your Panties / Shorts in a Bunch / Wad
 Don't Go There
-Don't Have a Cow
 Don't Have Two Nickels to Rub Together
+Don't Have a Cow
 Don't Hold Your Breath
 Don't Jump to Conclusions
 Don't Know Him from Adam
 Don't Let the Bed Bugs Bite
-Don't Look a Gift Horse in the Mouth
 Don't Look Back
-Don't Make a Fuss
+Don't Look a Gift Horse in the Mouth
 Don't Make Me Do Something I'll Regret
+Don't Make a Fuss
 Don't Paint the Devil on the Wall (german)
 Don't Pee on My Leg and Tell Me It's Raining!
 Don't Push Your Luck
@@ -833,32 +897,21 @@ Don't Try to Teach Your Grandma to Suck Eggs.
 Don't Upset the Apple Cart
 Don't Use a Lot Where a Little Will Do
 Don't Want to Cover Old Ground,
+Done Up Like a Christmas Tree
 Done a Runner
 Done to a Turn
-Done Up Like a Christmas Tree
 Donkey's Years
-Do Not Call Us, We Will Call You.
-Do Not Count Your Chickens Before They Hatch.
-Do Not Go There
-Do Not Have a Clue
-Do Not Keep a Dog and Bark Yourself.
-Do Not Look a Gift Horse in the Mouth.
-Do Not Poke the Bear
-Do Not Pull My Leg
-Do or Die
 Dot the I's and Cross the T's
 Double Dutch
 Double Whammy
 Doubting Thomas
-Do Unto Others As You Would Have Other Do Unto You.
-Do What It Takes
+Down Pat
 Down and Dirty
 Down and out
 Down at Heel
 Down in the Dumps
 Down in the Mouth
 Down on Your/his Luck
-Down Pat
 Down the Drain/toilet
 Down the Hatch
 Down the Pan
@@ -872,17 +925,16 @@ Dream on
 Dressed to Kill
 Dressed to the Nines
 Drink Like a Fish
+Drive Me to Drink
 Drive Me/you Nuts
 Drive Me/you Up a Wall
-Drive Me to Drink
 Drive Someone Doolally
-Drive the Point Home
 Drive You Up a Wall
+Drive the Point Home
 Driving Your Ducks to a (mighty) Poor Pond
-Drop-dead Gorgeous
-Drop a Dime
-A Drop in the Bucket
 Drop Me a Line
+Drop a Dime
+Drop-dead Gorgeous
 Dropping Like Flies
 Drown Your Sorrows
 Drum Up Support
@@ -898,141 +950,123 @@ Dyed in the Wool
 Dyed in the Wool,
 E-ticket
 Eager Beaver
-An Earful
+Ear to the Ground
 Early Bird Catches the Worm
-The Early Bird Catches the Worm
 Early to Bed, Early to Rise Makes a Man Healthy, Wealthy and Wise,
 Earmark Something
-Earned His Wings
 Earn One's Stripes
-The Earth Moved
-Ear to the Ground
+Earned His Wings
 Easier Said Than Done
 Easy As 1-2-3
 Easy As 123
 Easy As Abc
 Easy As Pie
-Eat, Drink and Be Merry
 Eat Crow
 Eat Dirt
-Eaten out of House and Home
 Eat Humble Pie
-Eating Humble Pie
 Eat Like a Horse
 Eat My Dust
 Eat My Hat
 Eat One's Words
 Eat Your Heart out
+Eat, Drink and Be Merry
+Eaten out of House and Home
+Eating Humble Pie
 Economical with the Truth
 Egg on Your Face
 Elementary, My Dear Watson.
-The Elephant in the Room
 Elvis Has Left the Building.
 Emotional Roller Coaster
 Empty Flattery
 Enough Already
 Et Tu, Brutus?
-Even a Blind Squirrel Finds an Acorn Once in a While.
 Even Keel
 Even Money
 Even Stevens
+Even a Blind Squirrel Finds an Acorn Once in a While.
 Every Dark Cloud Has a Silver Lining
 Every Dog Has His Day
 Every Dog Has Its Day
 Every Fiber of My Being
-Every Man for Himself
 Every Man Has His Price
 Every Man Has Stupid Thoughts, Only Wise Men Keep Them Quiet. (swedish)
-Everyone Has Their Cross to Bear
+Every Man for Himself
 Every Rose Has Its Thorn
+Every Tom, Dick, and Harry
+Every Which Way but Loose
+Everyone Has Their Cross to Bear
+Everything but the Kitchen Sink
 Everything's Coming Up Daisies
 Everything's Coming Up Roses
 Everything's Copasetic
 Everything's Hunky Dory
-Everything but the Kitchen Sink
-Every Tom, Dick, and Harry
-Every Which Way but Loose
 Evil Twin
 Exceedingly Well Read
-The Exception That Proves the Rule
 Excuse Me While I Kiss This Guy.
 Excuse My French
 Existential Angst
 Experts Agree
-Eyeball Someone or Something
-Eyeball to Eyeball
 Eye for an Eye
 Eye for an Eye, Tooth for a Tooth.
 Eye of Newt and Toe of Frog, Wool of Bat and Tongue of Dog.
-The Eyes Are the Mirrors (windows) of (to) the Soul
 Eye to Eye
-A Face Only a Mother Could Love
-The Face That Launched a Thousand Ships
-Face the Music
+Eyeball Someone or Something
+Eyeball to Eyeball
 Face Up to the Facts
+Face the Music
 Facts of Life
-A Faint Heart Never a True Love Knows
-Fair-haired One
-Fair and Square,
 Fair Play
 Fair Weather Friend
+Fair and Square,
+Fair-haired One
 Fait Accompli
 Faith Can Move Mountains
 Fake It Till You Make It
-Fall from Grace
 Fall Guy
 Fall Head over Heels
+Fall Through the Cracks
+Fall from Grace
 Fall off of a Turnip Truck
 Fall off the Back of a Lorry
 Fall on Your Sword
-Fall Through the Cracks
 Famous for Fifteen Minutes
-Fancy-pants
+Fan the Flames
 Fancy Free
 Fancy Meeting You Here
-Fan the Flames
-Far and Away the Best
+Fancy-pants
 Far Be It from Me
-A Far Cry
+Far and Away the Best
 Far from the Madding Crowd,
 Fashion Victim
-Faster Than a Speeding Bullet
 Faster Than Greased Lightning
+Faster Than a Speeding Bullet
 Fat As a Cow
 Fat As a Pig
 Fat Chance
-A Fate Worse Than Death
 Fat Slob
 Favor Us with a Song
 Fear and Loathing
 Feast Your Eyes on This
-A Feather in His Cap
 Feather Your Nest
 Feed a Cold, Starve a Fever
 Feeding Frenzy
 Feel Like a Fifth Wheel
 Fell off My Plate
 Fellow Traveler
-The Female of the Species is More Deadly Than the Male
 Few and Far Between
-A Few Fries Short of a Happy Meal
-A Few Sandwiches Short of a Picnic
-The Fickle Finger of Fate
 Fiddling While Rome Burns
 Fie, Fi, Foh, Fum, I Smell the Blood of an Englishman.
 Field This One
 Fifteen Minutes of Fame
-The Fifth Beatle
 Fight Fire with Fire
-Fight Like a Man
 Fight Like Cats and Dogs
+Fight Like a Man
 Fight the Good Fight
 Figure It out
 Filthy Rich,
-The Final Analysis
 Finders Keepers, Losers Weepers
-Fine and Dandy
 Fine Line
+Fine and Dandy
 Finer Than Frog Hair,
 Fire in the Belly
 Firing on All Cylinders
@@ -1040,12 +1074,11 @@ First Things First.
 Fish nor Fowl
 Fish or Cut Bait
 Fish out of Water
-A Fish out of Water
 Fit As a Fiddle
-Fits and Starts
-Fits Like a Glove
 Fit to Be Hung
 Fit to Be Tied
+Fits Like a Glove
+Fits and Starts
 Flag Something Down
 Flash As a Rat with a Gold Tooth.
 Flash in the Pan
@@ -1060,46 +1093,40 @@ Flesh and Blood
 Flipped Her Lid
 Flirt with Disaster
 Flog a Dead Horse
-The Floozie in the Jacuzzi
 Flotsam and Jetsam
 Flown the Coop
 Fly by Night
 Fly by the Seat of Your Pants
-Flying by the Seat of Your Pants
 Fly in the Face of
 Fly in the Ointment
-A Fly in the Ointment
-The Fly in the Ointment
 Fly off the Handle
 Fly on the Wall
 Fly the Coop
+Flying by the Seat of Your Pants
 Foam at the Mouth
 Fob off
-Following in His Footsteps
 Follow Suit
 Follow the Leader.
-A Fool's Paradise
-A Fool and His Money Are Soon Parted
+Following in His Footsteps
 Fool Me Once, Shame on You, Fool Me Twice, Shame on Me.
-Fools' Gold
 Fools Rush in Where Angels Fear to Tread.
-Foot in the Door
+Fools' Gold
 Foot Loose and Fancy Free
+Foot in the Door
 Foot the Bill
-Forbidden Fruit,
 For Crying out Loud
-A Foregone Conclusion
 For Ever and a Day
-Forever and a Day
 For Everything There is a Season
-Forgive Them for They Know Not What They Do.
 For God's Sake
-Fork out
 For Pete's Sake
-For the Birds
-For the Love of God/pete/mike
 For Want of the Nail, the Shoe Was Lost
 For Whom the Bell Tolls
+For the Birds
+For the Love of God/pete/mike
+Forbidden Fruit,
+Forever and a Day
+Forgive Them for They Know Not What They Do.
+Fork out
 Foul Play
 Four Corners of the Earth
 Fox in the Henhouse
@@ -1109,12 +1136,9 @@ Fresh As a Daisy
 Fresh out of Ideas
 Freudian Slip
 Fried to One's Tonsils
-A Friend in Need is a Friend Indeed
-Any Friend of Yours is a Friend of Mine.
 Friends, Romans, Countrymen, Lend Me Your Ears.
 Frisky As a Puppy
 Frog in My Throat
-A Frog in My Throat
 From Day One
 From Here to Timbuktu
 From Sea to Shining Sea
@@ -1124,12 +1148,11 @@ From the Frying Pan into the Fire
 Fruit of Your Loins
 Fuddy-duddy
 Full Monty
-The Full Monty
+Full Tilt
 Full of Himself
 Full of Hot Air
 Full of Mischief
 Full of Piss and Vinegar
-Full Tilt
 Full to the Back Teeth
 Fun and Games
 Fun in the Sun
@@ -1140,10 +1163,7 @@ Fur Coat and No Knickers
 Fuzzy Wuzzy
 Gadzooks!
 Gag Me with a Spoon
-The Game is Afoot
 Game is on the Line
-The Game is Up
-A Game of Two Halves
 Gang Bang
 Garbage In, Garbage out
 Gathering Like Flies
@@ -1153,15 +1173,9 @@ Generation X
 Genius is One Percent Inspiration and 99 Percent Perspiration.
 Gentlemen Only, Ladies Forbidden
 Get / Start the Ball Rolling
-Get a Grip on Yourself
-Get a Handle on This
 Get Ahead Early and Stay Ahead Late
-Get a Life
 Get All Worked Up
 Get Along Like Oil and Water
-Get an Earful
-Get a Room
-Get a Word in Edgewise
 Get Back Up on the Horse
 Get Cleaned out
 Get Crushed
@@ -1171,23 +1185,12 @@ Get Down to the Nitty Gritty
 Get It Outta My Hair
 Get Lost
 Get My Message?
-Get off on the Wrong Foot
 Get One's Goat
-Get on Her High Horse
-Get on Her Soap Box
-Get out of Here
 Get Outta Town by Sundown
-Get over It
-Gets My Goat
 Get Stuffed
 Get Thee Behind Me, Satan.
-Get the Peanut Butter out of Your Ears
-Get the Sack
-Get the Show on the Road
-Get to the Bottom of It
 Get Underway
 Get Used to It!
-Get with the Program!
 Get Your Arms Around It
 Get Your Ducks in a Row
 Get Your Feet Wet
@@ -1195,32 +1198,48 @@ Get Your Foot in the Door
 Get Your Goat
 Get Your Groove Back
 Get Your Head in the Game
+Get a Grip on Yourself
+Get a Handle on This
+Get a Life
+Get a Room
+Get a Word in Edgewise
+Get an Earful
+Get off on the Wrong Foot
+Get on Her High Horse
+Get on Her Soap Box
+Get out of Here
+Get over It
+Get the Peanut Butter out of Your Ears
+Get the Sack
+Get the Show on the Road
+Get to the Bottom of It
+Get with the Program!
+Gets My Goat
 Gift Horse in the Mouth
 Gift of the Gab
-Gilding the Lily
 Gild the Lily
+Gilding the Lily
 Gimme a Break
 Gird Your Loins
-The Girl Next Door
-Give a Damn
-Give a Hoot
-Give a Little Take a Little
-Give and Take
-Give an Inch, and He Takes a Mile
-Give a Wide Berth
 Give Him a Run for His Money
-Give It a Rest
 Give It Away
+Give It a Rest
 Give It a Whirl
 Give Me a Break
 Give Me a Hand
-Given to Him on a Silver Platter
-Gives Me the Creeps
 Give Someone a Break
 Give Them a Hand
-Give the Shirt off Your Back
 Give Up the Ghost
 Give Your Right Arm
+Give a Damn
+Give a Hoot
+Give a Little Take a Little
+Give a Wide Berth
+Give an Inch, and He Takes a Mile
+Give and Take
+Give the Shirt off Your Back
+Given to Him on a Silver Platter
+Gives Me the Creeps
 Giving Someone the Bird
 Glass Ceiling
 Glimmer of Hope
@@ -1228,45 +1247,57 @@ Gloss over
 Glowing Like a Good Deed in a Naughty World
 Glutton for Punishment
 Go Against the Grain
-Go and Boil Your Head
 Go Back to the Well
 Go Ballistic
 Go Belly Up
 Go Berserk
+Go Figure
+Go Fly a Kite
+Go Head to Head
+Go Him One Better
+Go Jump in the Lake
+Go Like the Clappers
+Go Overboard
+Go Through the Motions
+Go Through the Roof
+Go Together Hand in Hand
+Go Too Far
+Go Where the Green Lights Lead You
+Go and Boil Your Head
 Go by the Book
+Go for Broke
+Go off at Half-cock
+Go out in a Blaze of Glory
+Go out on a Limb
+Go over His Head
+Go the Extra Mile
+Go to Pot
+Go to the Dogs
+Go with Your Gut
+Go with the Flow
 God Help Us.
 God Only Knows.
 God Speed
 God Willing (and the Creek Don't Rise)
 Goes Without Saying
-Go Figure
-Go Fly a Kite
-Go for Broke
-Go Head to Head
-Go Him One Better
 Going Against the Tide
 Going Bananas
 Going Gang-busters
 Going Nineteen to the Dozen
 Going to Hell in a Hand Basket
-Go Jump in the Lake
 Gold Digger
 Golden Child
-Go Like the Clappers
 Gone but Not Forgotten
 Gone to the Dogs
 Good As Gold
 Good As New
-A Good Beginning Makes a Good Ending
 Good Call
 Good Deed for the Day
 Good Fences Make Good Neighbors.
-A Good Man is Hard to Find
 Good Men and True
 Good One!
 Good Riddance!
 Good Rule of Thumb
-A Good Rule of Thumb
 Good Samaritan
 Good Soldier
 Good Things Come to Those Who Wait
@@ -1274,68 +1305,48 @@ Good Time Was Had by All
 Good to Go
 Good to the Last Drop
 Goody Two-shoes
-Go off at Half-cock
 Goofing off
-Go out in a Blaze of Glory
-Go out on a Limb
-Go Overboard
-Go over His Head
 Gordon Bennett
-The Gospel Truth
-Got a Hole in His Pocket
-Got a Leg Up on It
-Got a Loaf in the Oven
 Got Beat Like a Drum
 Got Burned
-Go the Extra Mile
 Got Him by the Short Hairs
-Go Through the Motions
-Go Through the Roof
 Got Knocked Up
 Got Lost in the Shuffle
 Got My Mojo Working
-Got off on the Right Foot
-Got off on the Wrong Foot
-Go Together Hand in Hand
-Go Too Far
-Go to Pot
-Go to the Dogs
 Got Schooled
 Got Spanked
 Got Taken for a Ride
 Got Them by the Short and Curlies
-Got the Stuffing Beat out of Him
 Got Under My Skin
 Got Whooped
 Got You over a Barrel
 Got Your Hand Caught in the Cookie Jar
 Got Your Head in the Clouds
 Got Your Nose All Pushed out of Joint
-Go Where the Green Lights Lead You
-Go with the Flow
-Go with Your Gut
+Got a Hole in His Pocket
+Got a Leg Up on It
+Got a Loaf in the Oven
+Got off on the Right Foot
+Got off on the Wrong Foot
+Got the Stuffing Beat out of Him
 Grace of God
-A Grammar Guru, Style Editor, and Writing Mentor in One Package.
 Grand Slam,
 Grasping at Straws
-The Grass is Always Greener on the Other Side
 Grass Up
 Graveyard Shift
 Grease a Palm
 Greased Lightning
-The Greatest Thing Since Sliced Bread
-The Great Unwashed
 Greek to Me
-Green-eyed Monster
-Greener Pastures
 Green Thumb
 Green with Envy
-Grin and Bear It
+Green-eyed Monster
+Greener Pastures
 Grin Like a Cheshire Cat
+Grin and Bear It
 Grinning from Ear to Ear
 Grist for the Mill
-Groundhog Day
 Ground Rules
+Groundhog Day
 Growing Like a Weed
 Guiding Light
 Gum Up the Works
@@ -1343,25 +1354,21 @@ Gunning for
 Guns Blazing
 Had His Bell Rung
 Hair of the Dog
-A Hair of the Dog That Bit You
-The Hairy Eyeball
 Halcyon Days
-Half-baked Idea
-A Half-baked Idea
+Half Cocked
 Half a Bubble off
 Half a Loaf is Better Than None
-Half Cocked
+Half-baked Idea
 Halt! Who Goes There?
+Hand over Fist
 Handbags at Dawn
 Handle It with Kid Gloves
-Hand over Fist
 Hands on
-The Hand That Rocks the Cradle
-Hang by a Thread
-Hanging Onto Mother's Apron Strings
-Hang in There
 Hang Me out to Dry
+Hang by a Thread
+Hang in There
 Hang on Every Word
+Hanging Onto Mother's Apron Strings
 Hanky Panky
 Happy As a Clam
 Happy As a Lark
@@ -1369,9 +1376,9 @@ Happy As a Pig in Mud / Sh#t
 Happy Camper
 Hard As a Rock
 Hard Cheese,
-Harder for a Rich Man to Go to Heaven Than for a Camel to Go Through the Eye of a Needle
 Hard to Believe
 Hard to Swallow
+Harder for a Rich Man to Go to Heaven Than for a Camel to Go Through the Eye of a Needle
 Hare-brained Idea
 Harp on
 Haste Makes Waste
@@ -1379,99 +1386,33 @@ Hat in Hand
 Haul Someone over the Coals
 Have 'em in Stitches
 Have a Heart
-Have an Ax to Grind
 Have a Nice Day
+Have an Ax to Grind
+Have the Last Laugh
 Haven't Got a Penny to My Name
 Haven't Got a Row to Hoe
 Haven't Seen Hide nor Hair of Him
-Have the Last Laugh
-He's a Bald-faced Liar
-He's a Bubble Shy of Plumb
-He's a Corn-fed Hick
-He's a Dark Horse
-He's a Fall Guy
-He's All Flibberty Jibbets
-He's All Hat and No Cattle (added by Popular Demand!)
-He's Always Blowing His Own Horn
-He's an Easy Study
-He's an Inch Deep and a Mile Wide
-He's a Smooth Operator
-He's Bitten off More Than He Can Chew
-He's Built Like a Brick Shit-house
-He's Changing His Tune
-He's Chomping at the Bit
-He's Dressed to the Nines
-He's Feeling His Oats
-He's Fishing for Compliments
-He's Gone to Ground
-He's Got a Bug Up His Ass
-He's Got More Money Than He Knows What to Do With.
-He's Got the Skills to Pay the Bills,
-He's Gunning for a Fight
-He's Hen Pecked
-He's Milk Toast
-He's Not Playing with a Full Deck
-He's Not the Sharpest Knife in the Cabinet
-He's over the Hill
-He's Pulling Your Leg
-He's Pushing Up Daisies
-He's Really Laying It on Thick
-He's Really on the Ball
-He's Scared of His Own Shadow
-He's So Matter-of-fact
-He's So Ugly, He'd Have to Sneak Up on a Glass of Water to Get a Drink.
-He's the South End of a North-bound Horse
-He's Thinking with the Wrong Head
-He's Waiting for His Ship to Come in
-He/she is As Dense As a London Fog
-He/she Silenced the Critics.
-He/she Was Like a Brother/son/father/sister/mother/daughter to Me
-Head Honcho
-Heading for the Poor House
-Head over Heels
-Heads Up
-Heard It Through the Grapevine
-Heart's Content
-Heart of Gold
-Heaven Help Us
-Heavens to Betsy
 He Breasted His Cards
 He Can't See the Forest for the Trees
 He Couldn't Hit the Broad Side of a Barn
-Hedge Your Bets,
 He Doesn't Know What Time It Is,
-Heebie-jeebies,
-The Heebie-jeebies
 He Gave a Hundred and Ten Percent
 He Got Plastered
 He Got the Short End of the Stick
+He Has Egg on His Face
 He Has a Few Loose Screws
 He Has a Way with Words
-He Has Egg on His Face
-He is Toast
 He Knows Which Side His Bread is Buttered on
 He Learned His Lesson
 He Left No Stone Unturned
 He Let the Cat out of the Bag
-Hell-bent for Leather
-Hell Has No Fury Like a Woman Scorned.
-Hell or High Water
 He Looks Like Death Warmed Up
-Helter-skelter
 He Made a Mad Dash for It
-Hem and Haw
 He Never Met a Doughnut He Didn't Like.
-Hen Pecked
 He Put One over on Me
-Her Biological Clock is Ticking
-Here's Mud in Your Eye
-Here's Your Hat, What's Your Hurry?
-Here Lies One Whose Name Was Writ in Water.
-Here Today, Gone Tomorrow
 He Single-handedly Destroyed an Empire
 He Speaks with a Forked Tongue
 He Spilled the Beans
-Het Up
 He Was Aladdin in an Orchard Dripping with Diamonds!
 He Was Just a Port in the Storm
 He Was Talking into His Hat Lying
@@ -1485,17 +1426,82 @@ He Who Laughs Last, Laughs Best.
 He Who Lives by the Sword, Shall Die by the Sword,
 He Will Give the Devil His Due
 He Won, Hands Down
+He is Toast
+He's All Flibberty Jibbets
+He's All Hat and No Cattle (added by Popular Demand!)
+He's Always Blowing His Own Horn
+He's Bitten off More Than He Can Chew
+He's Built Like a Brick Shit-house
+He's Changing His Tune
+He's Chomping at the Bit
+He's Dressed to the Nines
+He's Feeling His Oats
+He's Fishing for Compliments
+He's Gone to Ground
+He's Got More Money Than He Knows What to Do With.
+He's Got a Bug Up His Ass
+He's Got the Skills to Pay the Bills,
+He's Gunning for a Fight
+He's Hen Pecked
+He's Milk Toast
+He's Not Playing with a Full Deck
+He's Not the Sharpest Knife in the Cabinet
+He's Pulling Your Leg
+He's Pushing Up Daisies
+He's Really Laying It on Thick
+He's Really on the Ball
+He's Scared of His Own Shadow
+He's So Matter-of-fact
+He's So Ugly, He'd Have to Sneak Up on a Glass of Water to Get a Drink.
+He's Thinking with the Wrong Head
+He's Waiting for His Ship to Come in
+He's a Bald-faced Liar
+He's a Bubble Shy of Plumb
+He's a Corn-fed Hick
+He's a Dark Horse
+He's a Fall Guy
+He's a Smooth Operator
+He's an Easy Study
+He's an Inch Deep and a Mile Wide
+He's over the Hill
+He's the South End of a North-bound Horse
+He/she Silenced the Critics.
+He/she Was Like a Brother/son/father/sister/mother/daughter to Me
+He/she is As Dense As a London Fog
+Head Honcho
+Head over Heels
+Heading for the Poor House
+Heads Up
+Heard It Through the Grapevine
+Heart of Gold
+Heart's Content
+Heaven Help Us
+Heavens to Betsy
+Hedge Your Bets,
+Heebie-jeebies,
+Hell Has No Fury Like a Woman Scorned.
+Hell or High Water
+Hell-bent for Leather
+Helter-skelter
+Hem and Haw
+Hen Pecked
+Her Biological Clock is Ticking
+Here Lies One Whose Name Was Writ in Water.
+Here Today, Gone Tomorrow
+Here's Mud in Your Eye
+Here's Your Hat, What's Your Hurry?
+Het Up
 Hidden Agenda
 Hide the Salami
 Higgledy Piggledy
-High, Wide and Handsome
-High-flyer
-High and Dry
-High and the Mighty (the)
 High As a Kite
 High Hopes
-High on the Hog
 High Time
+High and Dry
+High and the Mighty (the)
+High on the Hog
+High, Wide and Handsome
+High-flyer
 Highway Robbery
 Hindsight is Twenty/twenty (20/20),
 His Bark is Worse Than His Bite,
@@ -1516,58 +1522,95 @@ Hit the Nail on the Head
 Hit the Sack
 Hoist by Your Own Petard
 Hoity-toity
-Hold a Candle to
 Hold Down the Fort
-Holding All the Cards
-Hold the Phone
 Hold Your Horses
 Hold Your Tongue
+Hold a Candle to
+Hold the Phone
+Holding All the Cards
 Holier Than Thou
-Home is Where the Heart is
 Home is Where You Hang Your Hat,
-Hook, Line and Sinker.
+Home is Where the Heart is
 Hook or by Crook
+Hook, Line and Sinker.
 Hop, Skip and a Jump
 Hope Against Hope
 Hope Springs Eternal.
-A Horse, a Horse, My Kingdom for a Horse
 Horse Around,
-Horse of a Different Color
-A Horse of a Different Color
 Horse Play
+Horse of a Different Color
 Horsing Around
 Hot As Hell
 Hot Enough for You?
 Hot Enough to Fry an Egg.
 Hot Knife Through Butter
+Hot Under the Collar
 Hot off the Press
 Hot on the Heels
 Hotter Than a Fox in a Firestorm.
-Hot Under the Collar
-A House Divided Against Itself Cannot Stand
 Houston, We Have a Problem.
-How's It Hanging?
-How's That for a Topper?
 How Are the Mighty Fallen.
 How Do I Love Thee?
 How Goes the Battle?
 How Now, Brown Cow?
 How Sharper Than a Serpent's Tooth It is to Have a Thankless Child.
+How's It Hanging?
+How's That for a Topper?
 Hugged Him Closer Than Peel Does a Banana
 Hump Day
 Hunker Down
 Hunky Dory
 Hurl Insults
 Hurts Like the Dickens
+I Beg to Differ
+I Beg to Differ.
+I Bought It for a Song.
+I Busted My Hump.
+I Can't Stand It.
+I Can't Stomach That.
+I Can't Tell You What a Pleasure Its Been / It's Been a Pleasure.
+I Could Eat a Horse.
+I Could Whip You with One Arm Tied Behind My Back.
+I Didn't Come Down the Clyde in a Banana Boat. (scottish, Glasgow)
+I Didn't Expect the Spanish Inquisition.
+I Don't Give a Fig.
+I Don't Give a Jot.
+I Hate to Say This, But...,
+I Have Not Slept One Wink.
+I Have Nothing to Declare but My Genius.
+I Have Nothing to Offer but Blood, Toil, Tears and Sweat.
+I Have a Bone to Pick with You.
+I Have an Ax to Grind.
+I Haven't a Clue.
+I Haven't the Foggiest.
+I Heard (hear) That!
+I Need That Like a Hole in the Head.
+I Need That Like a Moose Needs a Hat Rack.
+I Never Met a Man (horse, Etc.) I Didn't Like.
+I Ought to Tan Your Hide.
+I Put Two and Two Together...
+I Quit Smoking Cold Turkey.
+I Second That.
+I Smell a Rat.
+I Spy with My Little Eye.
+I Trust Him As Far As I Can Throw Him.
+I Want My Place in the Sun.
+I Was Roped into It.
+I Wasn't Born Yesterday.
+I Will Give You That to Boot.
+I Will Go to the Foot of Our Stairs.
+I Will Wear My Heart Upon My Sleeve.
+I Wouldn't P#ss on Your Teeth if They Were on Fire.
+I Wouldn't Trust Him As Far As I Could Spit.
 I'd Bet My Bottom Dollar
 I'd Lose My Head if It Wasn't Attached
 I'd Rather Be a Hammer Than a Nail
 I'd Rather Have a Bottle in Front of Me, Than a Frontal Lobotomy.
-I'll Be a Monkey's Uncle
 I'll Be Damned
-I'll Bet a Dollar to a Donut
-I'll Be the Judge of That, Thank You.
 I'll Be There with Bells on
+I'll Be a Monkey's Uncle
+I'll Be the Judge of That, Thank You.
+I'll Bet a Dollar to a Donut
 I'll Eat My Hat
 I'll Fix You
 I'll Fix Your Little Red Wagon
@@ -1579,54 +1622,32 @@ I'm Going Bananas
 I'm Gonna Clean Your Clock
 I'm Gonna Lay Down the Law
 I'm Gonna Wash That Man Right Outta My Hair
-I'm in Hog Heaven
-I'm Not a Rocket Scientist (it Ain't Rocket Science)
 I'm Not Getting Any Younger
+I'm Not a Rocket Scientist (it Ain't Rocket Science)
 I'm Okay, You're Okay
+I'm in Hog Heaven
 I'm on a Roll,
 I've Been Had.
-I've Got a Monkey on My Back.
 I've Got It Covered.
 I've Got Other Fish to Fry,
+I've Got a Monkey on My Back.
 I've Had It Up to Here,
-I Beg to Differ
-I Beg to Differ.
-I Bought It for a Song.
-I Busted My Hump.
-I Can't Stand It.
-I Can't Stomach That.
-I Can't Tell You What a Pleasure Its Been / It's Been a Pleasure.
 Ice Water in His/her Veins
 Icing on the Cake
-I Could Eat a Horse.
-I Could Whip You with One Arm Tied Behind My Back.
-I Didn't Come Down the Clyde in a Banana Boat. (scottish, Glasgow)
-I Didn't Expect the Spanish Inquisition.
 Idle Chit-chat
 Idle Hands Are the Devil's Workshop.
-An Idle Mind is the Devil's Playground.
-I Don't Give a Fig.
-I Don't Give a Jot.
-If a Frog Had Wings, He Wouldn't Bump His Ass Hopping.
-If at First You Don't Succeed, Try, Try, Again
-If a Tree Falls in the Forest, Does It Make a Sound?
 If God Had Meant for Man to Fly, He Would've Given Us Wings.
 If His Word Were a Bridge - You'd Be Afraid to Cross!
-If I've Said It Once, I've Said It a Thousand Times.
-If I Had a Nickel for Every Time He _, I'd Be a Millionaire.
 If I Had My Druthers
-If It's Not One Thing It's Another
+If I Had a Nickel for Every Time He _, I'd Be a Millionaire.
+If I Were in His Shoes
+If I've Said It Once, I've Said It a Thousand Times.
 If It Ain't Broke, Don't Fix It
 If It Weren't for Bad Luck, I'd Have No Luck at All
-If I Were in His Shoes
+If It's Not One Thing It's Another
 If Looks Could Kill
 If Music Be the Food of Love, Play On.
-If the Mountain Won't Come to Mohammed, Mohammud Must Go to the Mountain.
-If the Shoe Fits
-If the Shoe Fits, Wear It.
 If Wishes Were Horses, Beggars Would Ride.
-If You're Going to Talk the Talk, You Better Walk the Walk.
-If You've Seen One You've Seen 'em All
 If You Can't Beat 'em, Join 'em
 If You Can't Find It, Grind It
 If You Can't Kill the King then Don't Wound Him
@@ -1638,24 +1659,36 @@ If You Don't Have Anything Nice to Say, Don't Say Anything at All.
 If You Get the Sense, then Chuck the Tense.
 If You Love Something Set It Free
 If You Play Your Cards Right...
-If Your Foresight Was As Good As Your Hindsight, We Would Be Better by a Far Sight.
 If You Think That, You Have Another Think Coming.
 If You Were Any Closer, It Would Bite You
+If You're Going to Talk the Talk, You Better Walk the Walk.
+If You've Seen One You've Seen 'em All
+If Your Foresight Was As Good As Your Hindsight, We Would Be Better by a Far Sight.
+If a Frog Had Wings, He Wouldn't Bump His Ass Hopping.
+If a Tree Falls in the Forest, Does It Make a Sound?
+If at First You Don't Succeed, Try, Try, Again
+If the Mountain Won't Come to Mohammed, Mohammud Must Go to the Mountain.
+If the Shoe Fits
+If the Shoe Fits, Wear It.
 Ignorance is Bliss
 Ignorance of the Law is No Excuse
-I Hate to Say This, But...,
-I Have a Bone to Pick with You.
-I Have an Ax to Grind.
-I Haven't a Clue.
-I Haven't the Foggiest.
-I Have Nothing to Declare but My Genius.
-I Have Nothing to Offer but Blood, Toil, Tears and Sweat.
-I Have Not Slept One Wink.
-I Heard (hear) That!
-An Ill Wind
 Imitation is the Sincerest Form of Flattery
+In Bed with One's Boots on
+In Cahoots with
+In Every Life a Little Rain Must Fall
+In Fine Fettle
+In Full Cry
+In Harm's Way
+In My Mind's Eye
+In One Ear and out the Other
+In One Fell Swoop
+In Seventh Heaven
+In Still Weather Everyone is a Good Sailor. (swedish)
+In Stitches
+In Two (2) Shakes of a Lamb's Tail
+In Your Dreams
+In Your Face
 In a New York Minute
-In an Interesting Condition
 In a Nutshell
 In a Pickle,
 In a Pig's Eye
@@ -1663,31 +1696,11 @@ In a Pinch
 In a Quandary
 In a Trice
 In a Wink
-In Bed with One's Boots on
-In Cahoots with
-Indian Summer
-I Need That Like a Hole in the Head.
-I Need That Like a Moose Needs a Hat Rack.
-I Never Met a Man (horse, Etc.) I Didn't Like.
-In Every Life a Little Rain Must Fall
-Inexorably Drawn
-In Fine Fettle
-Influence Peddling
-Info Dump
+In an Interesting Condition
 In for a Fleecing
 In for a Penny, in for a Pound.
 In for the Long Haul
-In Full Cry
-In Harm's Way
-In My Mind's Eye
-Innocent As the Day He Was Born
-In One Ear and out the Other
-In One Fell Swoop
 In over Your Head
-In Seventh Heaven
-In Still Weather Everyone is a Good Sailor. (swedish)
-In Stitches
-Intents and Purposes
 In the Bag
 In the Black
 In the Box-seat
@@ -1708,104 +1721,90 @@ In the Red
 In the Rough
 In the Tank
 In the Twinkling of an Eye
-In Two (2) Shakes of a Lamb's Tail
-In Your Dreams
-In Your Face
-I Ought to Tan Your Hide.
-I Put Two and Two Together...
-I Quit Smoking Cold Turkey.
+Indian Summer
+Inexorably Drawn
+Influence Peddling
+Info Dump
+Innocent As the Day He Was Born
+Intents and Purposes
 Irons in the Fire
-Is a Pig Pork?
-I Second That.
 Is It Soup Yet?
-I Smell a Rat.
-Isn't All It's Cracked Up to Be.
 Is Nothing Sacred?
-I Spy with My Little Eye.
-Is the Pope Catholic?
 Is This a Dagger Which I See Before Me?
-It's a Dog-eat-dog World
-It's a Doozy
-It's a Freckle Past a Hair
-It's a Game of Inches
-It's a Lemon.
-It's All Cut and Dried
-It's All Fun and Games Until Someone Loses an Eye.
-It's All Greek to Me
-It's All in Your Head
-It's All over but the Crying
-It's a Long Shot
-It's an Ill Wind That Blows No Good
-It's a One-horse Town
-It's Autumn in Her Mouth and All Her Tongue Can Do is Rustle!
-It's a Wash
-It's Better Than a Poke in the Eye with a Sharp Stick
-It's Cutting Edge
-It's Darkest Just Before the Dawn
-It's Got a Great Beat, but You Can't Dance to It
-It's in the Bag.
-It's Just One of Those Days, I Guess.
-It's Like My Daddy Used to Say...
-It's Neck and Neck
-It's Never Too Late to Learn
-It's Not All It's Cracked Up to Be
-It's Not a Sprint, It's a Marathon.
-It's Nothing Earth-shattering
-It's Not over Till It's Over.
-It's Not the Heat It's the Humidity
-It's Not the Size of the Dog in the Fight, It's the Size of the Fight in the Dog.
-It's Not Whether You Win or Lose, It's How You Play the Game.
-It's Not Written in Stone
-It's No Use Crying over Spilled Milk.
-It's Only a Matter of Time
-It's on the Tip on My Tongue
-It's Raining Like a Cow Pissing on a Flat Rock.
-It's What's on the Inside That Counts.
-It Ain't over Till the Fat Lady Sings.
+Is a Pig Pork?
+Is the Pope Catholic?
+Isn't All It's Cracked Up to Be.
 It Ain't Rocket Science.
+It Ain't over Till the Fat Lady Sings.
 It All Boils Down to This.
 It Came Like a Bolt from the Blue.
-It is All Grist to the Mill.
-It is a Long Road Without a Turn.
-It is Better to Give Than to Receive.
-It is Better to Light a Candle Than Curse the Darkness.
 It Isn't All Sweetness and Light
 It Just Goes to Show...
 It Never Rains but It Pours.
-I Trust Him As Far As I Can Throw Him.
-Its a Dog's Life
-Its All Topsy Turvy
-Its a Sure Thing
 It Sounds Like a Thrashing Machine.
 It Stands to Reason
 It Takes Two Fools to Argue.
 It Takes Two to Tango.
 It Took My Breath Away
 It Was a Dark and Stormy Night
-It Was an Ill-fated Idea
 It Was a Piece of Cake
 It Was a White-knuckle Ride
+It Was an Ill-fated Idea
 It Will Be a Cold Day in Hell
 It Will Do
 It Won't Fly
+It is All Grist to the Mill.
+It is Better to Give Than to Receive.
+It is Better to Light a Candle Than Curse the Darkness.
+It is a Long Road Without a Turn.
+It's All Cut and Dried
+It's All Fun and Games Until Someone Loses an Eye.
+It's All Greek to Me
+It's All in Your Head
+It's All over but the Crying
+It's Autumn in Her Mouth and All Her Tongue Can Do is Rustle!
+It's Better Than a Poke in the Eye with a Sharp Stick
+It's Cutting Edge
+It's Darkest Just Before the Dawn
+It's Got a Great Beat, but You Can't Dance to It
+It's Just One of Those Days, I Guess.
+It's Like My Daddy Used to Say...
+It's Neck and Neck
+It's Never Too Late to Learn
+It's No Use Crying over Spilled Milk.
+It's Not All It's Cracked Up to Be
+It's Not Whether You Win or Lose, It's How You Play the Game.
+It's Not Written in Stone
+It's Not a Sprint, It's a Marathon.
+It's Not over Till It's Over.
+It's Not the Heat It's the Humidity
+It's Not the Size of the Dog in the Fight, It's the Size of the Fight in the Dog.
+It's Nothing Earth-shattering
+It's Only a Matter of Time
+It's Raining Like a Cow Pissing on a Flat Rock.
+It's What's on the Inside That Counts.
+It's a Dog-eat-dog World
+It's a Doozy
+It's a Freckle Past a Hair
+It's a Game of Inches
+It's a Lemon.
+It's a Long Shot
+It's a One-horse Town
+It's a Wash
+It's an Ill Wind That Blows No Good
+It's in the Bag.
+It's on the Tip on My Tongue
+Its All Topsy Turvy
+Its a Dog's Life
+Its a Sure Thing
 Ivory Tower
-I Want My Place in the Sun.
-I Wasn't Born Yesterday.
-I Was Roped into It.
-I Will Give You That to Boot.
-I Will Go to the Foot of Our Stairs.
-I Will Wear My Heart Upon My Sleeve.
-I Wouldn't P#ss on Your Teeth if They Were on Fire.
-I Wouldn't Trust Him As Far As I Could Spit.
 Jack of All Trades
-A Jack of All Trades and a Master of None
 Jack of All Trades and a Master of None.
 Jockey for Position
 Jockeying for Position
 Johnny-come-lately
-Joined at the Hip
 Join the Ranks
-A Journey of a Thousand Miles Begins with the First Step
+Joined at the Hip
 Jump Down Your Throat
 Jump Her/his Bones
 Jump in with Both Feet
@@ -1813,46 +1812,33 @@ Jump on the Bandwagon
 Jump the Gun
 Junk in the Trunk
 Jury is Still out
-Just a Cotton Pickin' Minute Here.
 Just Admiring the View
-Just a Drop in the Bucket
-Just a Minute
 Just Around the Bend
-Just a Second
 Just As Sweet As You Please
 Just Fell off the Turnip Truck
-Justice is Blind
 Just Like Riding a Bike
-Just the Tip of the Iceberg
 Just Thought I'd Throw That in
 Just Washed My Hair and Can't Do a Thing with It
 Just What the Doctor Ordered
+Just a Cotton Pickin' Minute Here.
+Just a Drop in the Bucket
+Just a Minute
+Just a Second
+Just the Tip of the Iceberg
+Justice is Blind
 Kangaroo Court
 Kangaroo Loose in the Top Paddock
 Keep 'em Flying (keep Your Spirits Up)
-Keep a Bad Dog with You, and the Good Dogs Won't Bite.
-Keep an (my) Eye on You
-Keep an Eye on You
-Keep a Stiff Upper Lip
-Keep a Wide Berth
 Keep Body and Soul Together
 Keep Danger at Bay
-Keeping (staying) on Top of It
-Keeping the World Safe for Democracy
 Keep It Down
 Keep It Simple, Stupid
 Keep It Simple, Stupid (kiss)
 Keep It Under Your Hat
 Keep It Up
-Keep on Your Toes
 Keep Schtum
-Keeps Her Cards Close to Her Chest
 Keep Something at Bay
-Keeps on Ticking
-Keep the Ball Rolling
-Keep the Home Fires Burning
 Keep Up with the Joneses
-Keepy-uppy
 Keep Your Cards Close to Vest
 Keep Your Chin Up
 Keep Your Eye on the Ball
@@ -1867,61 +1853,72 @@ Keep Your Powder Dry
 Keep Your Shirt on
 Keep Your Shoulder to the Wheel
 Keep Your Thoughts to Yourself
+Keep a Bad Dog with You, and the Good Dogs Won't Bite.
+Keep a Stiff Upper Lip
+Keep a Wide Berth
+Keep an (my) Eye on You
+Keep an Eye on You
+Keep on Your Toes
+Keep the Ball Rolling
+Keep the Home Fires Burning
+Keeping (staying) on Top of It
+Keeping the World Safe for Democracy
+Keeps Her Cards Close to Her Chest
+Keeps on Ticking
+Keepy-uppy
 Kettle of Fish
 Kick 'em when They're Down
 Kick Ass
 Kick Back
-Kickbutt
-Kicked (took It) in the Huevos
 Kick Him/her to the Curb
 Kick Some Butt (ass)
-Kick the Bucket
 Kick Up Your Heels
+Kick You to the Curb
 Kick Your Feet Up
 Kick Your Heels
-Kick You to the Curb
+Kick the Bucket
+Kickbutt
+Kicked (took It) in the Huevos
 Kid in a Candy Store
 Kill 'em with Kindness
 Kill Two Birds with One Stone
+King of the Hill
 King's English
 King's Ransom
-King of the Hill
-Kiss and Tell
 Kiss Ass
-Kissing the Rose
+Kiss and Tell
 Kiss of Death
+Kissing the Rose
 Kit and Kaboodle
 Kitten on the Keys
 Knee-high to a Grasshopper
 Knee-jerk Reaction
-A Knight in Shining Armor
 Knock 'em Dead
-A Knock-back
-Knocked into a Cocked Hat
-Knocked Up
 Knock It off
 Knock It out of the Park
+Knock Your Socks off
+Knock Yourself out
 Knock off (work)
 Knock on Wood
 Knock the Cover off the Ball
-Knock Yourself out
-Knock Your Socks off
+Knocked Up
+Knocked into a Cocked Hat
 Know Him from Adam
 Know It Like the Back of My Hand
-Knows It Chapter and Verse
-Know the Ropes
-Know the Score
 Know What's Up
 Know Where You Stand
 Know Which Side Your Bread is Buttered on
 Know Which Way the Wind Blows
 Know Your Onions
+Know the Ropes
+Know the Score
+Knows It Chapter and Verse
 Knuckle Down
 Knuckle Sandwich
 Knuckle Under
+La Dolce Vita
 La-di-da
 Labor of Love
-A Labour of Love
 Lager Frenzy
 Lamb to the Slaughter
 Lame Duck
@@ -1929,15 +1926,14 @@ Land of Milk and Honey
 Lap of Luxury
 Lardy-dardy
 Lark About
+Last Hurrah
+Last but Not Least
 Last, but Not Least
 Last-ditch Effort
-Last but Not Least
-Last Hurrah
-The Last Straw
-Laugh a Minute
-Laughing-stock
-Laughing All the Way to the Bank
 Laugh Like a Drain
+Laugh a Minute
+Laughing All the Way to the Bank
+Laughing-stock
 Laughter is the Best Medicine
 Law of the Jungle
 Law of the Land
@@ -1951,78 +1947,62 @@ Learn the Ropes
 Least Said, Soonest Mended
 Leave / Make Your Mark
 Leave No Stone Unturned
-Left-handed Compliment
 Left at the Altar
-The Left Hand Doesn't Know What the Right Hand is Doing
 Left in the Lurch
+Left-handed Compliment
 Legend in His Own Mind
-A Legend in One's Own Lifetime
 Leopard Doesn't Change Its Spots
-A Leopard Doesn't Change Its Spots
-Lesser of Two Evils
 Less is More
-Let's Forge Ahead, Shall We?
-Let's Get the Ball Rolling
-Let's Roll!
-Let's Split
-Let's Split!
-Let's Tie the Knot
-Let a Thousand Flowers Bloom
+Lesser of Two Evils
 Let Bygones Be Bygones.
 Let God Sort 'em out
 Let Me Bend Your Ear
 Let Not the Sun Go Down on Your Wrath.
 Let Sleeping Dogs Lie
 Let Sleeping Dogs Lie.
-Let the Cat out of the Bag
 Let Them Eat Cake
 Let There Be Light
 Let Your Hair Down
+Let a Thousand Flowers Bloom
+Let the Cat out of the Bag
+Let's Forge Ahead, Shall We?
+Let's Get the Ball Rolling
+Let's Roll!
+Let's Split
+Let's Split!
+Let's Tie the Knot
 Level Playing Field
 Liberal Media
-A Lick and a Promise
+Lick into Shape
 Lickety-split
 Licking One's Wounds
-Lick into Shape
 Lie Down with Dogs and Wake Up with Fleas
 Lie Like a Rug
 Lie Low
-Life's a B#tch
-Life's a Bitch
-Life's Too Short,
-Life and Limb
 Life Goes on
 Life Imitates Art
+Life Stinks
+Life and Limb
 Life in the Fast Lane
-Life is a Bowl of Cherries
 Life is Like a Box of Chocolates, You Never Know What You Are Going to Get
 Life is Not All Beer and Skittles
 Life is What You Make It
+Life is a Bowl of Cherries
 Life of Riley
-Life Stinks
+Life's Too Short,
+Life's a B#tch
+Life's a Bitch
 Lift Myself Up by the Bootstraps
 Lift Your Game (get Your Act Together)
-The Light's on but Nobody's Home
-Light a Fire Under It
 Light As a Feather
+Light a Fire Under It
 Light at the End of the Tunnel
+Light in the Loafers
 Lighten Up
 Lighter Than Air
-Light in the Loafers
 Lightning Never Strikes the Same Place Twice
 Lights Are on but There's Nobody Home
 Lights out
-Like a Bat out of Hell
-Like a Broken Record
-Like a Bull in a China Shop
-Like a Chicken with His Head Cut Off.
-Like a Coiled Spring.
-Like a Dog Chasing Cars
-Like a Duck on a June Bug
-Like a Fish out of Water
-Like a Lost Dog in the High Weeds.
-Like a Moth to a Flame.
-Like a Sore Thumb
 Like Balling the Jack
 Like Being Savaged by a Dead Sheep.
 Like Billy-o
@@ -2040,107 +2020,95 @@ Like Sh#t off a Shovel.
 Like Shooting Ducks on a Pond.
 Like Shooting Fish in a Barrel
 Like Taking Candy from a Baby
-Like the Dickens.
-Like the Plague
-Like There's No Tomorrow
 Like There is No Tomorrow.
+Like There's No Tomorrow
 Like Walking on Eggshells
 Like Water off a Duck's Back
 Like White on Rice.
+Like a Bat out of Hell
+Like a Broken Record
+Like a Bull in a China Shop
+Like a Chicken with His Head Cut Off.
+Like a Coiled Spring.
+Like a Dog Chasing Cars
+Like a Duck on a June Bug
+Like a Fish out of Water
+Like a Lost Dog in the High Weeds.
+Like a Moth to a Flame.
+Like a Sore Thumb
+Like the Dickens.
+Like the Plague
 Lily-livered
 Line in the Sand
 Lion's Share
 Lions Led by Donkeys
 Lipstick on a Pig
 Litmus Test
-A Little Bird Told Me
 Little Black Book
-A Little Knowledge is a Dangerous Thing
-Little of This, a Little of That
-A Little of This, a Little of That
 Little Strokes Fell Great Oaks
-A Little Yeast Works Through the Whole Batch of Dough
+Little of This, a Little of That
+Live Long and Prosper
 Live and Learn
 Live and Let Live
-Live Long and Prosper
-The Living Daylights
 Living Hand to Mouth
 Living High off the Hog
-Living in an Ivory Tower
 Living Legend
+Living in an Ivory Tower
 Living off the Fat of the Land.
 Living on Borrowed Time.
 Living the Life of Riley.
-A Load of (old) Cobblers
-Load of Cobblers / Codswallop
 Lo and Behold
+Load of Cobblers / Codswallop
 Loaves and Fishes
 Lock, Stock, and Barrel
-Long and Short of It
 Long Arm of the Law
-The Long Arm of the Law
-Long in the Tooth
 Long Lost Love
 Long Time No See.
-A Long Ways Away
 Long Ways Away.
-Look a Gift Horse in the Mouth.
+Long and Short of It
+Long in the Tooth
 Look Before You Leap
 Look Before You Leap.
-Looking at the World Through Rosy Colored Glasses
-Looking for a Needle in a Haystack
-Look into Your Heart
 Look Out!
+Look a Gift Horse in the Mouth.
+Look into Your Heart
 Look out for Number One
 Look over Your Shoulder
+Looking at the World Through Rosy Colored Glasses
+Looking for a Needle in a Haystack
 Looks Can Be Deceiving
 Looks Like There's a New Sheriff in Town
 Loose Cannon
 Loose Lips Sink Ships,
-Lose Your Shirt
-The Lord Giveth and the Lord Taketh Away
-The Lord Moves in Mysterious Ways
 Lord Willin' and the Creek Don't Rise,
 Lose Face - Save Face
 Lose Your Lunch
 Lose Your Marbles
 Lose Your Mind
-Lost a Step
+Lose Your Shirt
 Lost His Shirt
-A Lot of Empty Flattery
+Lost a Step
 Lots of Honey Makes Bees Lazy. (swedish)
 Lounge Lizard
-Love and Hate Are Two Horns on the Same Goat
 Love Conquers All
-Loved and Lost
-Love is a Many-splendored Thing
-Love is Blind
-The Love That Dare Not Speak Its Name
 Love Thy Neighbor
+Love and Hate Are Two Horns on the Same Goat
+Love is Blind
+Love is a Many-splendored Thing
+Loved and Lost
+Low Man on the Totem Pole
 Lower Than a Snake's Belly
 Lower the Boom
-The Lowest on the Totem Pole
-Low Man on the Totem Pole
 Luck of the Draw
-The Luck of the Draw
 Luck of the Irish
 Lucky Stiff
 Lying Through Your Teeth
 Mad As a Hatter
 Mad As a March Hare
 Madder Than a Wet Hen
-Made in the Shade
 Made It by the Skin of My Teeth
+Made in the Shade
 Made of Money
-Make a Bee-line for
-Make a Big Deal out of Nothing
-Make a Break for It
-Make a Fast Buck
-Make a Long Story Short
-Make a Mountain out of a Mole Hill
-Make an Ass out of Yourself
-Make a Statement Without Saying a Word
-Make a Virtue of Necessity
 Make Ends Meet,
 Make Hay While the Sun Shines,
 Make Heads or Tails of
@@ -2150,83 +2118,84 @@ Make Like a Tree and Leave
 Make Money Hand over Fist
 Make My Day
 Make No Bones About It
-Make or Break
-Make out Like a Bandit
-Makes My Blood Boil
-Makes Your Hair Stand on End
-Make the Grade
 Make Tracks
 Make Up
 Make Waves
 Make Your Move
+Make a Bee-line for
+Make a Big Deal out of Nothing
+Make a Break for It
+Make a Fast Buck
+Make a Long Story Short
+Make a Mountain out of a Mole Hill
+Make a Statement Without Saying a Word
+Make a Virtue of Necessity
+Make an Ass out of Yourself
+Make or Break
+Make out Like a Bandit
+Make the Grade
+Makes My Blood Boil
+Makes Your Hair Stand on End
 Makin' Bacon
 Making Him Sing Like a Canary
 Making Money Hand over Fist,
-Making the Beast with Two Backs
 Making Whoopee
+Making the Beast with Two Backs
 Mal De Mer
 Male Chauvinist
-Man's Best Friend
-A Man's Home is His Castle
-A Man After My Own Heart
 Man Does Not Live by Bread Alone
-Man for All Seasons
-A Man for All Seasons
 Man Up
-Many-splendored Thing
-Many a Mickle Makes a Muckle
+Man for All Seasons
+Man's Best Friend
 Many Are Called but Few Are Chosen.
-Many a True Word is Spoken in Jest.
 Many Hands Make Light Work.
 Many Moons
+Many a Mickle Makes a Muckle
+Many a True Word is Spoken in Jest.
+Many-splendored Thing
 March to the Beat of a Different Drummer
-Marking Time
 Mark My Words
+Marking Time
 Marry in Haste, Repent at Leisure.
 Matter-of-fact
-Maybe Something Will Jog Your Memory
 May You Live in Interesting Times.
+Maybe Something Will Jog Your Memory
 Mea Culpa
 Mean As a Snake
 Meaningful Relationship
 Meet and Greet
 Mellow out
 Melting Pot
-The Melting Pot
 Memory Like an Elephant
 Methinks She Doth Protest Too Much
-A Mexican Standoff
-A Mexican Wave
-A Mickey Finn
 Middle of the Road
 Mighty Oaks from Little Acorns Grow.
 Milk It (for All It's Worth)
 Milk of Human Kindness
-A Mind is a Terrible Thing to Waste
-Mind over Matter
 Mind Your Manners
 Mind Your Own Beeswax
 Mind Your Own Business
 Mind Your P's and Q's
+Mind over Matter
 Misery Loves Company
 Missed by a Hair
 Missed the Boat
 Moaning Minnie
-Moment's Respite
 Moment of Glory
+Moment's Respite
 Monday Morning Quarterback
 Money Burns a Hole in His Pocket
 Money Can't Buy You Happiness
 Money Doesn't Grow on Trees
 Money Grubbing
-Money is the Root of All Evil
 Money Makes the World Go Round
+Money is the Root of All Evil
 Money out (up) the Wazoo
 Monkey Business
-Monkeying Around
-Monkey See, Monkey Do
 Monkey See Monkey Do
+Monkey See, Monkey Do
 Monkey Suit
+Monkeying Around
 Montezuma's Revenge
 More Cliches Than You Can Shake a Stick At,
 More Fool You,
@@ -2234,24 +2203,17 @@ More Fun Than a Barrel of Monkeys
 More Honoured in the Breach Than in the Observance.
 More Than Meets the Eye.
 More the Merrier
-The More the Merrier
-The More Things Change, the More They Stay the Same
-The More We Learn, the Less We Know
 Motherhood and Apple Pie
-A Moveable Feast
 Movers and Shakers
 Moving Experience
-The Moving Finger Writes,
 Moving the Goalposts
 Much Ado About Nothing
 Much of a Muchness
 Mud Slinging
 Mug for the Camera
-A Multitude of Sins
 Mum's the Word
 Mumbo Jumbo
 Murphy's Law
-The Mutt's Nuts,
 My Bad
 My Better Half
 My Brain is Fried
@@ -2268,61 +2230,51 @@ My Stomach is Tied Up in Knots.
 My Two Cents
 My Way or the Highway.
 Ménage à Trois,
-The Nail That Sticks Up Gets Pounded Down (japanese)
 Nail Your Colors to the Mast.
 Naked As a Jaybird.
 Naked As the Day You Were Born.
-The Naked Truth
 Namby-pamby
-Name and Shame
 Name That Tune
 Name Will Be Mud
 Name Your Poison
+Name and Shame
 Nary a Word Was Spoken
 Nasty, Brutish and Short
-A Nation of Shopkeepers
 Nature's First Green is Gold
 Near and Dear to My Heart
 Neat As a Pin
 Necessary Evil
-A Necessary Evil
 Necessity is the Mother of Invention
 Needless to Say
 Needs Must
-Neither a Borrower Not a Lender Be
 Neither Fish nor Flesh, nor Good Red Herring
 Neither Fish nor Fowl
 Neither Here nor There
+Neither a Borrower Not a Lender Be
 Nerves of Steel
 Nervous As a Cat on a Hot Tin Roof
 Nervous As a Long Tailed Cat in a Room Full of Rocking Chairs
 Nervous As a Whore in Church
-A Nest-egg
-Never-never Land
 Never Cast a Clout Till May Be out
 Never Give a Sucker an Even Break
 Never Hurts to Try
-Never in a Month of Sundays
 Never Put off Until Tomorrow What You Can Do Today
 Never Say Never
+Never in a Month of Sundays
 Never the Twain Shall Meet.
-A New Do
+Never-never Land
 New Kid on the Block
-A New Lease of Life
 New Lease on Life
 Nice Cage, No Bird
 Nice Day for a Picnic
 Nice Guys Finish Last
 Nice Work, if You Can Get It
-The Night is Young and So Are We
 Nine Days' Wonder
-Nip and Tuck
 Nip It in the Bud
+Nip and Tuck
 Nitty-gritty,
-A No-brainer
 No Accounting for Taste
 No Dice
-Nod off
 No Go
 No Guts, No Glory
 No Holds Barred
@@ -2330,65 +2282,68 @@ No If's, And's, or But's About It
 No Love Lost
 No Man is an Island,
 No More Cakes and Ale?
-None of Your Business.
-None Too Pleased
-Noodle on
 No One Here but Us Chickens!
 No Pain, No Gain
 No Rest for the Wicked,
 No Room to Swing a Cat
-Nose in the Air
-Nose to the Grindstone
 No Sh#t, Sherlock
 No Skin off My Back
 No Skin off My Nose
 No Stone Unturned
 No Strings Attached
-Not All It's Cracked Up to Be.
-Not a Spinning Wheel in the Kingdom and then You Prick Your Finger!
-Not by the Hair of My Chinny Chin Chin.
-Not Enough Room to Swing a Cat
-Not for All the Tea in China
-Not for Nothing, But...
-Nothing is Certain but Death and Taxes.
-Nothing is Impossible for Those Who Don't Have to Do It Themselves. (swedish)
-Nothing New Under the Sun
-Nothing Personal,
-Nothing Succeeds Like Success.
-Nothing to Fear but Fear Itself
-Nothing to Sneeze at
-Nothing to Write Home About
-Nothing Up My Sleeve
-Nothing Ventured, Nothing Gained
 No Time Like the Present
-Not in My Back Yard
+No Use Crying over Spilled Milk
+No Victory Without a Battle. (swedish)
+No Way (or Why) on God's Green Earth
+No Way, José,
+Nod off
+None Too Pleased
+None of Your Business.
+Noodle on
+Nose in the Air
+Nose to the Grindstone
+Not All It's Cracked Up to Be.
+Not Enough Room to Swing a Cat
 Not Just Another Pretty Face
 Not My Cup of Tea
-Not on Your Tintype
 Not Playing with a Full Deck
 Not Rowing with Both Oars
+Not Worth a Hill of Beans
+Not a Spinning Wheel in the Kingdom and then You Prick Your Finger!
+Not by the Hair of My Chinny Chin Chin.
+Not for All the Tea in China
+Not for Nothing, But...
+Not in My Back Yard
+Not on Your Tintype
 Not the Brightest Bulb (in the Box / on the Tree / in the Chandelier),
 Not the Ghost of a Chance.
 Not the Sharpest Knife in the Cabinet.
-Not Worth a Hill of Beans
-No Use Crying over Spilled Milk
-No Victory Without a Battle. (swedish)
-Now's As Good a Time As Any
-Now's Your Chance
-No Way (or Why) on God's Green Earth
-No Way, José,
+Nothing New Under the Sun
+Nothing Personal,
+Nothing Succeeds Like Success.
+Nothing Up My Sleeve
+Nothing Ventured, Nothing Gained
+Nothing is Certain but Death and Taxes.
+Nothing is Impossible for Those Who Don't Have to Do It Themselves. (swedish)
+Nothing to Fear but Fear Itself
+Nothing to Sneeze at
+Nothing to Write Home About
+Now This Won't Hurt a Bit
 Now is the Winter of Our Discontent
 Now or Never
-Now This Won't Hurt a Bit
-The Nth Degree,
+Now's As Good a Time As Any
+Now's Your Chance
 Numb As a Hake
 Number One Fan
 Numerous to Mention
 Nutty As a Fruitcake
+O Romeo, Romeo! Wherefore Art Thou Romeo?
+O Ye, of Little Faith
 Object of Desire
 Odds Bodkins
-Off and Running
 Off Like a Prom Dress!
+Off Your Rocker
+Off and Running
 Off the Cuff
 Off the Dime
 Off the Hook
@@ -2397,26 +2352,35 @@ Off the Shelf
 Off the Top of My Head
 Off the Wagon
 Off with His Head
-Off Your Rocker
-Some of My Best Friends
-Oh, to Be a Fly on the Wall
 Oh, Woe is Me
+Oh, to Be a Fly on the Wall
 Okey-dokey
 Old As Dirt
 Old As the Hills
 Old Ball and Chain
-The Old Ball and Chain
 Old Blowhard
 Old College Try
-Older and Wiser
-Older Than Dirt
-Older Than Methuselah
 Old Fogey
 Old Habits Die Hard
-An Oldie, but a Goodie.
 Old Meets New
 Old School
 Old Standby
+Older Than Dirt
+Older Than Methuselah
+Older and Wiser
+On Bended Knee,
+On Carey Street
+On Cloud Nine,
+On Equal Footing
+On Him Like Ugly on an Ape
+On Par
+On Pins and Needles
+On Queer Street
+On Skid Row
+On Tenterhooks
+On Thin Ice
+On Your Tod
+On Your Toes
 On a Good Footing
 On a Hiding to Nothing
 On a Lark
@@ -2425,47 +2389,6 @@ On a Short Leash
 On a Soap Box
 On a Wild Goose Chase
 On a Wing and a Prayer
-On Bended Knee,
-On Carey Street
-Once Bitten, Twice Shy
-Once in a Blue Moon
-Once in a Blue Moon,
-Once in a Dog's Age
-Once More Unto the Breach, Dear Friends, Once More.
-On Cloud Nine,
-One's Heart's Content
-One-hit Wonder
-One Bad Apple Spoils the (whole) Barrel / Bushel / Lot / Bunch.
-One Born Every Minute
-One Brick Short of a Load
-One Foot in the Grave
-One Foot on a Banana Peel, the Other in the Grave.
-One for the Books
-One for the Road
-One Good Turn Deserves Another
-One in a Million
-One in Million
-One Man's Foul Weather is Another Man's Fair
-One Man's Garbage is Another Man's Treasure.
-One Man's Meat is Another Man's Poison
-On Equal Footing
-One Size Fits All
-One Small Step for a Man, a Giant Leap for Mankind.
-One Stop Shop
-One Taco Short of a Combination Plate
-The One That Got Away
-One Toe over the Line
-On Him Like Ugly on an Ape
-The Only Difference Between Women and Girls is the Price of Their Pearls
-Only Game in Town
-The Only People I Trust Are You and Me, and I Am Not Too Sure About You!
-The Only Thing We Have to Fear is Fear Itself
-Only to Be Met
-On Par
-On Pins and Needles
-On Queer Street
-On Skid Row
-On Tenterhooks
 On the Back Burner
 On the Ball
 On the Bandwagon
@@ -2493,86 +2416,106 @@ On the Up and Up
 On the Wagon
 On the Warpath
 On the Whole
-On Thin Ice
 On to Something
-On Your Tod
-On Your Toes
+Once Bitten, Twice Shy
+Once More Unto the Breach, Dear Friends, Once More.
+Once in a Blue Moon
+Once in a Blue Moon,
+Once in a Dog's Age
+One Bad Apple Spoils the (whole) Barrel / Bushel / Lot / Bunch.
+One Born Every Minute
+One Brick Short of a Load
+One Foot in the Grave
+One Foot on a Banana Peel, the Other in the Grave.
+One Good Turn Deserves Another
+One Man's Foul Weather is Another Man's Fair
+One Man's Garbage is Another Man's Treasure.
+One Man's Meat is Another Man's Poison
+One Size Fits All
+One Small Step for a Man, a Giant Leap for Mankind.
+One Stop Shop
+One Taco Short of a Combination Plate
+One Toe over the Line
+One for the Books
+One for the Road
+One in Million
+One in a Million
+One's Heart's Content
+One-hit Wonder
+Only Game in Town
+Only to Be Met
 Oops-a-daisy
-Open a Can of Worms
-Open and Shut Case
-Opened a Can of Worms
 Open Mouth, Closed Mind/ears
 Open Season
+Open a Can of Worms
+Open and Shut Case
 Open the Kimono
+Opened a Can of Worms
 Opportunity Doesn't Knock Twice
 Opposites Attract
-The Order of the Boot
-O Romeo, Romeo! Wherefore Art Thou Romeo?
-An Ounce of Prevention is Worth a Pound of Cure.
-Out for a Sunday Stroll
 Out Like a Light
+Out Sowing Your Wild Oats
+Out for a Sunday Stroll
 Out of Gas
 Out of Pocket
 Out of Sight, out of Mind
 Out of Sorts
+Out of Whack
 Out of the Blue
 Out of the Frying Pan
 Out of the Frying Pan and into the Fire
 Out of the Jaws of Death
 Out of the Mouths of Babes and Sucklings
 Out of the Woods
-Out of Whack
 Out on a Limb
-Out Sowing Your Wild Oats
 Out to Lunch
 Out with the Old, in with the New
+Over My Head
 Over a Barrel
 Over and Done with
 Over and over Again
-Over My Head
 Over the Edge
 Over the Hill
 Over the Moon
 Over the Top
-O Ye, of Little Faith
 P's and Q's
+Pack It in
 Packing Heat
 Packing Lead
-Pack It in
 Paddle Your Own Canoe.
 Pain and Suffering
 Pain in the Ass / Neck / Butt
 Paint Oneself into a Corner
 Paint the Town Red
+Pan out
 Pandora's Box
 Panic Button
-Pan out
-Paper over the Cracks
 Paper Tiger
-Pardon My French
+Paper over the Cracks
 Par for the Course
+Pardon My French
 Part and Parcel
 Parting Shot
 Party Pooper
 Pass Away
-Passed with Flying Colors
 Pass on
 Pass the Buck
 Pass the Hat
 Pass the Sniff Test
+Passed with Flying Colors
+Pat on the Back
 Path of Least Resistance
 Patience is a Virtue
-Pat on the Back
 Patter of Little Feet
-Pay a King's Ransom
-Pay an Arm and a Leg
 Pay As You Go
 Pay Attention to Details
-Payback is a B#tch
 Pay Lip Service
+Pay Through the Nose
+Pay a King's Ransom
+Pay an Arm and a Leg
 Pay the Debt of Nature
 Pay the Piper
-Pay Through the Nose
+Payback is a B#tch
 Peaches and Cream Complexion
 Pearls Before Swine
 Pears for Your Heirs
@@ -2582,14 +2525,11 @@ Peel out
 Peeping Tom
 Pell-mell
 Pencil It / You / Me in
-The Pen is Mightier Than the Sword
 Pennies from Heaven
-The Penny Drops
-Penny for Your Thoughts
 Penny Pincher
-A Penny Saved is a Penny Earned
 Penny Saved is a Penny Earned.
 Penny Wise and Pound Foolish.
+Penny for Your Thoughts
 People Who Live in Glass Houses Shouldn't Throw Stones.
 Perception Becomes Reality.
 Perfect Storm
@@ -2599,56 +2539,49 @@ Phone It in
 Physician, Heal Thyself.
 Pick and Mix
 Pick of the Litter
-The Pick of the Litter
 Pick over the Ruins
 Pick the Low-hanging Fruit
-A Picture's Worth a Thousand Words
-Picture's Worth a Thousand Words.
 Picture Perfect
-Piece of Cake
+Picture's Worth a Thousand Words.
 Pie in the Sky
-Pig's Ear
+Piece of Cake
 Pig and Whistle
-Pigeon-chested
 Pig in a Poke
-A Pig in a Poke
 Pig out
+Pig's Ear
+Pigeon-chested
 Pillar of Society
-A Pink Elephant
-Pinko
 Pin Money
 Pin Your Hopes on Something
+Pinko
 Pipe Down
 Pipe Dream
 Piping Hot
+Piss Like a Racehorse
 Piss-poor
 Pissed to the Gills
 Pissing in the Wind
-Piss Like a Racehorse
-A Place for Everything and Everything in Its Place
-The Place Was Crawling with Cops
-A Plague on Both Your Houses
-Plain and Simple
 Plain As Day
 Plain Sailing
+Plain and Simple
 Play Ball
 Play Both Ends Against the Middle
-Play by Ear
-Played Me for a Fool
 Play Fast and Loose
-Play for the Name on the Front of Your Jersey, Not the Name on the Back of Your Jersey.
 Play Hot Potato
-Playing Hardball
-Playing Possum
-Playing the Field
-Playing with Fire
 Play It Again, Sam.
 Play It by Ear
 Play Second Fiddle to
+Play by Ear
+Play for the Name on the Front of Your Jersey, Not the Name on the Back of Your Jersey.
 Play the Cards You're Dealt
 Play the Final Card
 Play the Giddy Goat
 Play with the Big Boys
+Played Me for a Fool
+Playing Hardball
+Playing Possum
+Playing the Field
+Playing with Fire
 Pleased As Punch
 Plenty of Fish in the Sea
 Plenty of Other Fish in the Sea.
@@ -2656,18 +2589,15 @@ Plenty to Go 'round
 Poison Pen
 Poison the Well
 Poker Face
-Poor As a Churchmouse
 Poor As a Church Mouse.
+Poor As a Churchmouse
 Poor Excuse for
-Pop a Vein
 Pop Goes the Weasel
-Any Port in a Storm
+Pop a Vein
 Posh - Port Out, Starboard Home
 Possession is Nine-tenths of the Law.
 Pot Calling the Kettle Black
-The Pot Calling the Kettle Black
 Pot of Gold at the End of the Rainbow.
-Some Pots You Don't Stir
 Pound for Pound
 Pound of Flesh
 Pound the Pavement
@@ -2676,10 +2606,9 @@ Pour Oil on Trouble Waters
 Power Corrupts: Absolute Power Corrupts Absolutely.
 Power Dressing
 Powers of Darkness
-The Powers That Be
 Practice Makes Perfect
-Praying at the Porcelain Altar
 Pray to the Porcelain God
+Praying at the Porcelain Altar
 Preaching to the Choir
 Press into Service
 Pretty As a Picture
@@ -2687,45 +2616,30 @@ Pretty Damn Quick
 Pretty Penny
 Prick Up Your Ears
 Pride Before the Fall
-Primed to the Sticking Point
 Prime Time
+Primed to the Sticking Point
 Primrose Path
-The Proof is in the Pudding
 Propped Up
 Proud Possessor
 Prowritingaid
-Pull a Fast One
-Pull a Rabbit out of a Hat
-Pull out All the Stops
-Pull the Wool over Your Eyes
 Pull Your Chain
 Pull Your Finger out
 Pull Your Head out of Your Ass
 Pull Yourself Up by Your Bootstraps
-Punched in the Gut
+Pull a Fast One
+Pull a Rabbit out of a Hat
+Pull out All the Stops
+Pull the Wool over Your Eyes
 Punch His Lights out
+Punched in the Gut
 Pure As the Driven Snow
-Push the Envelope
 Push Your Buttons
-Put a Cork in It
-Put a Lid on It
-Put a Little Elbow Grease into It
-Put a Sock in It
+Push the Envelope
 Put It Through Its Paces,
-Put My/your Foot Down
 Put My Two Cents in
-Put on Ice
-Put on Your Thinking Cap
-Put out Some Feelers
+Put My/your Foot Down
 Put Paid to
 Put That in Your Pipe and Smoke It
-Put the Cart Before the Horse
-Put the Dampers on
-Put the Pedal to the Metal
-Putting His Feet to the Fire
-Putting the Cart Before the Horse
-Putting the Screws to Him
-Put to Death
 Put Two and Two Together
 Put Up Your Feet and Stay Awhile
 Put Your Back Up
@@ -2734,19 +2648,32 @@ Put Your Foot in Your Mouth
 Put Your Heart into It
 Put Your Money Where Your Mouth is
 Put Your Nose out of Joint
+Put a Cork in It
+Put a Lid on It
+Put a Little Elbow Grease into It
+Put a Sock in It
+Put on Ice
+Put on Your Thinking Cap
+Put out Some Feelers
+Put the Cart Before the Horse
+Put the Dampers on
+Put the Pedal to the Metal
+Put to Death
+Putting His Feet to the Fire
+Putting the Cart Before the Horse
+Putting the Screws to Him
 Pyrrhic Victory
 Queen for a Day
 Queer As a Three Dollar Bill
-Quick and the Dead
 Quick As a Bunny
 Quick Buck
+Quick and the Dead
 Quicker Than a New York Minute
 Quiet As a (church) Mouse
-The Quiet Before the Storm
 Quit Horsing Around!
 Quit While You're Ahead
-Rack and Ruin
 Rack Your Brains
+Rack and Ruin
 Radical Chic
 Rag, Tag and Bobtail
 Rags to Riches
@@ -2755,8 +2682,8 @@ Raining Cats and Dogs
 Raining Stair-rods
 Raise the Bar
 Raise the Roof
-Raking in the Dough
 Raking It in
+Raking in the Dough
 Rally Round
 Rank and File
 Rattle Trap
@@ -2764,19 +2691,18 @@ Rattle Your Cage
 Raw End of the Deal
 Raze to the Ground
 Read Between the Lines
-Reading the Riot Act
 Read It and Weep
 Read My Lips
 Read the Fine Print
 Read the Handwriting on the Wall
+Reading the Riot Act
 Real Mccoy
-The Real Mccoy
 Red Carpet Treatment
-Redheaded Stepchild
 Red Herring
-Red in Tooth and Claw
 Red Letter Day
 Red Sky in the Morning, Sailor's Warning; Red Sky at Night, Sailor's Delight.
+Red in Tooth and Claw
+Redheaded Stepchild
 Reeking Havoc
 Reign Supreme
 Religion is the Opium of the People.
@@ -2786,13 +2712,12 @@ Rest Assured
 Resting on One's Laurels
 Rhyme or Reason
 Richard of York Gave Battle in Vain.
-A Riddle Wrapped Up in an Enigma
 Riding the Wild Pony
 Right As Rain
+Right Up Your Alley
 Right on the Button
 Right on the Money
 Right on the Nose
-Right Up Your Alley
 Ring a Bell
 Ring a Ring O'roses, a Pocketful of Posies, Atishoo, Atishoo, All Fall Down.
 Ring in the New Year
@@ -2800,72 +2725,64 @@ Ring of Truth
 Ring the Changes
 Rise and Shine,
 Road Less Traveled
-The Road Less Travelled
 Road to Hell is Paved (on All Sides) with Good Intentions
 Road to Hell is Paved with Good Intentions
-The Road to Ruin / Hell is Paved with Good Intentions.
 Roaring Fire
-Robbing Peter to Pay Paul
 Rob Peter to Pay Paul
+Robbing Peter to Pay Paul
 Rock and a Hard Place
 Rocket Science/scientist
-Rolling in the Dough
-A Rolling Stone Gathers No Moss
 Roll of the Dice
 Roll out the Red Carpet
 Roll over in His Grave
 Roll with the Punches
+Rolling in the Dough
 Rome Wasn't Built in a Day
 Room to Swing a Cat
 Rope a Dope
-A Rose by Any Other Name Would Smell As Sweet
-A Rose is a Rose is a Rose
 Rotten to the Core
 Rough Around the Edges
 Rough As a Cob
-Rubbing Salt in His Wounds
 Rub Salt in the Wound
-Rubs Me the Wrong Way
 Rub Your Nose (face) in It
-Rules Are Made to Be Broken
+Rubbing Salt in His Wounds
+Rubs Me the Wrong Way
 Rule with an Iron Fist
-A Rum Do
-Run a Mile
+Rules Are Made to Be Broken
 Run Amok
 Run Circles Around
-Run for Your Money
 Run It Up the Flagpole
 Run It Up the Flagpole (and See Who Salutes It)
 Run Like the Wind
+Run a Mile
+Run for Your Money
+Run out of Steam
+Run the Gauntlet
+Run with the Fox and Bark with the Hounds
 Running Around Like a Chicken with Its Head Cut off
 Running Dog Lackey
 Running with Wolves
-Run out of Steam
 Runs Like a Top
-Run the Gauntlet
-Run with the Fox and Bark with the Hounds
 Sacred Cow
-Safe and Sound
-A Safe Pair of Hands
 Safe Than Sorry
+Safe and Sound
 Sail / Ride off into the Sunset
 Salad Days
 Salt of the Earth
 Same Ol' Same Ol'
-The Same Old Story
 Same Song and Dance
-Saved by the Bell
 Save Face
-Save the Drama for Your Mama.
 Save Your Breath
+Save the Drama for Your Mama.
+Saved by the Bell
 Savoir Faire
 Sawing a Log
 Say What You Will, ....
 Say Your Prayers
 Scarce As Hen's Teeth
 Scared Dogs Bark Most. (swedish)
-Scared of His Own Shadow
 Scared Stiff
+Scared of His Own Shadow
 Scared to Death
 Scaredy-cat
 Scattered to the Four Winds
@@ -2875,22 +2792,21 @@ Scraping the Bottom of the Barrel
 Screaming Bloody Murder
 Screaming Meemies
 Scuse Me While I Kiss This Guy.
-A Sea Change
 Sealed with a Loving Kiss
 Second Wind
-See a Man About a Dog
 See Eye to Eye
-Seeing Red
-Seems Just Like Old Times
 See No Evil, Hear No Evil, Speak No Evil
+See Which Way the Winds Blow
+See You Later, Alligator
+See a Man About a Dog
 See the Glass As Half Empty
 See the Light
 See the Whole Field
 See the World Through Rose Colored Glasses
-See Which Way the Winds Blow
-See You Later, Alligator
-Sell out (sold Out)
+Seeing Red
+Seems Just Like Old Times
 Sell Yourself Short
+Sell out (sold Out)
 Send Packing
 Senses Reel
 Sent to Coventry
@@ -2898,24 +2814,35 @@ Separate the Men from the Boys
 Separate the Wheat from the Chaff
 Serve Up a Softball
 Set One's Cap at
-Set the Record Straight
 Set Your Teeth on Edge
+Set the Record Straight
 Seven-year Itch
-The Seven-year Itch
 Sh#t or Get off the Pot
 Sh#t out of Luck
 Shaggy Dog Story
+Shake Hands with the Wife's Best Friend
 Shake a Leg
 Shake a Stick Should of
-Shake Hands with the Wife's Best Friend
 Shall I Compare Thee to a Summer's Day?
 Shape Up or Ship out
 Share and Share Alike
 Sharp As a Marble
 Sharp As a Tack
+She Could Test the Patience of Job
+She Drinks Like a Fish
+She Fell out of the Ugly Tree and Hit Every Branch on the Way Down
+She Gave Me a Withering Glance
+She Got Called Up on the Carpet
+She Has Bats in Her Belfry
+She Has Everything but the Kitchen Sink
+She Has Pull (clout)
+She Has a Great Personality
+She Has a Green Thumb
+She Threw a Wet Blanket on My Idea
+She Wears Her Heart on Her Sleeve
+She Wouldn't Know Me from Adam
+She is a Loose Cannon
 She's All That
-She's an Open Book
-She's a Peach,
 She's Been Hit with an Ugly Stick
 She's Burning Her Candle at Both Ends
 She's Fighting a Losing Battle
@@ -2923,84 +2850,64 @@ She's Getting the Red Carpet Treatment
 She's Got Eyes in the Back of Her Head
 She's Got Money to Burn
 She's Hot to Trot
-She's in Hot Water
 She's Lost Her Marbles
 She's Not the Brightest Bulb on the Patio
 She's Not the Only Fish in the Sea
-She's out Sowing Her Wild Oats
-She's out to Lunch
 She's Taking the Bait
 She's Tugging on Your Chain
-She Could Test the Patience of Job
+She's a Peach,
+She's an Open Book
+She's in Hot Water
+She's out Sowing Her Wild Oats
+She's out to Lunch
 Shed (some) Light on
-She Drinks Like a Fish
-She Fell out of the Ugly Tree and Hit Every Branch on the Way Down
-She Gave Me a Withering Glance
-She Got Called Up on the Carpet
-She Has a Great Personality
-She Has a Green Thumb
-She Has Bats in Her Belfry
-She Has Everything but the Kitchen Sink
-She Has Pull (clout)
-She is a Loose Cannon
-She Threw a Wet Blanket on My Idea
-She Wears Her Heart on Her Sleeve
-She Wouldn't Know Me from Adam
 Shilly-shally
 Ship-shape and Bristol Fashion
 Shirt off His Back
-Shit for Brains
 Shit Happens
+Shit for Brains
 Shiver Me Timbers
-The Shoe's on the Other Foot
 Shoe is on the Other Foot
 Shoestring Budget
-A Shoestring Budget
-Shoot from the Hip
-Shooting for the Moon
 Shoot It Straight
-Shoot the Breeze
 Shoot Yourself in the Foot
+Shoot from the Hip
+Shoot the Breeze
+Shooting for the Moon
 Short Changed
 Short End of the Stick
 Short Pleasures Are Often Long Regretted. (swedish)
 Short Shrift
 Shot Across the Bows
-A Shot Across the Bows
-Shotgun Wedding
-A Shotgun Wedding
-A Shot in the Arm
 Shot in the Dark
-A Shot in the Dark
-Shouldered His Way
+Shotgun Wedding
 Shoulder to the Wheel
+Shouldered His Way
 Shove off
 Show Him the Door
 Show Me the Money!
-The Show Must Go on
 Show Some Spine / Spunk
 Show Them How the Cow Ate the Cabbage
 Show Your True Colors
 Shuffle off This Mortal Coil
-Shut the Hole in Your Head
 Shut Up
 Shut Your Hole / Cake-hole / Mouth
 Shut Your Trap
+Shut the Hole in Your Head
 Sick As a Dog
 Sick to Death of It
 Sigh of Relief
-A Sight for Sore Eyes
 Signed, Sealed and Delivered
 Significant Other
-Silenced the Crowd
 Silence is Golden
+Silenced the Crowd
 Silly Billy
 Silver Bullet
 Simple Pleasures Are the Best
-Sing for Your Supper
 Sing Like a Bird
-Sink or Swim
+Sing for Your Supper
 Sink Your Teeth into
+Sink or Swim
 Sit Tight
 Sitting Duck
 Sitting in the Catbird Seat
@@ -3011,22 +2918,20 @@ Six of One, Half a Dozen of Another
 Skating on Thin Ice
 Skeletons in the Closet
 Skid Row
-The Sky's the Limit
 Slam Dunk
 Slap on the Back
-A Sledgehammer to Crack a Nut
-Sleeping Her Way to the Top
 Sleep Like a Baby
 Sleep Like a Log
 Sleep with the Fishes
+Sleeping Her Way to the Top
 Slept Like a Log
 Slick As Snot on a Glass Doorknob
 Slipped Through Your Fingers
 Slippery As an Eel
 Slippery Slope
 Sloppy As a Soup Sandwich
-Slow and Steady Wins the Race
 Slow As Molasses in January
+Slow and Steady Wins the Race
 Sly As a Fox
 Smack Dab in the Middle
 Small Potatoes
@@ -3035,8 +2940,8 @@ Small World, Isn't It?
 Smart Alec
 Smart Ass
 Smart Cookies Don't Crumble
-Smarter Than the Average Bear
 Smart is Better Than Stupid.
+Smarter Than the Average Bear
 Smell (a Little) Ripe
 Smile and the World Smiles with You, Cry and You Cry Alone
 Smoke and Mirrors
@@ -3044,42 +2949,44 @@ Smoking Gun
 Smooth As a Baby's Bottom
 Smooth Operator
 Snake in the Grass
-Snowball's Chance in Hell
 Snow Job
+Snowball's Chance in Hell
 Snug As a Bug
 Snug As a Bug in a Rug
 So Close, You Can Taste It
+So Many Men So Little Time
+So Much Bad in the Best of Us and So Much Good in the Worst in Us That It Ill-behoves Us to Talk About the Rest of Us
+So Much for That
+So Quiet You Could Hear a Pin Drop
+So Sue Me
+So Ugly, They'd Have to Sneak Up on a Glass of Water to Get a Drink.
 Sod off
 Sold Down the River
 Solid As a Rock (the Rock of Gibraltar)
-So Many Men So Little Time
+Some Pots You Don't Stir
+Some Things Are Better Left Unsaid
+Some of My Best Friends
 Someday, You Will Thank Me for This
 Something Rotten in the State of Denmark
 Something Smells Fishy
-Something the Cat Dragged in
 Something You Can Really Sink Your Teeth into
+Something the Cat Dragged in
 Sometimes You Are the Hydrant, and Sometimes You Are the Dog.
 Sometimes You Are the Windshield, and Sometimes You Are the Bug.
 Sometimes You Just Gotta Let Your Hair Down
-So Much Bad in the Best of Us and So Much Good in the Worst in Us That It Ill-behoves Us to Talk About the Rest of Us
-So Much for That
 Son of a B#tch
 Son of a Gun
-So Quiet You Could Hear a Pin Drop
-A Sorry Sight
-So Sue Me
-So Ugly, They'd Have to Sneak Up on a Glass of Water to Get a Drink.
 Sound Like a Broken Record
 Sounds Like a Plan
 Sour Grapes
 Spade a Spade
 Spare the Rod
 Spare the Rod, Spoil the Child
-Speaking in Riddles
-Speak off the Cuff
-Speak of the Devil
 Speak Softly and Carry a Big Stick
+Speak of the Devil
+Speak off the Cuff
 Speak with a Forked Tongue
+Speaking in Riddles
 Special Relationship
 Spend a Penny
 Spick and Span
@@ -3093,87 +3000,78 @@ Spitting Image
 Split Second
 Splitting Hairs
 Spoil the Fun
-A Spoon Full of Sugar Helps the Medicine Go Down
 Spread the Word
 Spring to Life
 Spruce Up
 Square Meal
 Squeaky Bum Time
-The Squeaky Wheel Gets the Grease
 Squeaky Wheel Gets the Grease/oil
 Stack the Deck
-Stand-up Guy
 Stand and Deliver
+Stand-up Guy
 Standing on the Shoulders of Giants
 Star-crossed Lovers
 Staring off into Space/nowhere
 Stark-raving Mad
 Start from Scratch
 State of the Art
+Stay Tuned
 Stayed Too Long at the Fair
 Staying Power
-Stay Tuned
+Steal One's Thunder
 Steal a March
 Stealing the Show
-Steal One's Thunder
 Steer Clear of It
 Stem the Tide
-Step on a Crack, Break Your Mother's Back
 Step on It
+Step on a Crack, Break Your Mother's Back
 Stepping on People's Toes
-Stick a Fork in It (him, Me)
-Stick in the Mud
-Stick in Your Craw
+Stick It Where the Sun Don't Shine
 Stick It in Your Ear
 Stick It out
 Stick It to You
-Stick It Where the Sun Don't Shine
+Stick Up for the Little Guy
+Stick a Fork in It (him, Me)
+Stick in Your Craw
+Stick in the Mud
+Stick to Your Guns
+Stick with It
 Sticks and Stones Will Break My Bones, but Words Will Never Hurt Me.
 Sticks out Like a Sore Thumb
-Stick to Your Guns
-Stick Up for the Little Guy
-Stick with It
 Sticky Subject
-A Sticky Wicket
 Stiff As a Board
 Stiffen the Sinews
 Still As a Church Mouse
 Still Waters Run Deep
 Stinking to High Heaven
-Stirring Up Trouble
 Stir Up an Ant's Nest
-A Stitch in Time Saves Nine
-A Stone's Throw Away
+Stirring Up Trouble
 Stone the Crows!
 Stop and Smell the Roses
 Stop on a Dime
 Stop the Presses!
 Store Bought
 Stow It
-Straight and Narrow
 Straight As an Arrow
-Straighten Up and Fly Right
+Straight and Narrow
 Straight from the Horses Mouth
+Straighten Up and Fly Right
 Strain at the Leash
 Stranger Danger
-Stranger in a Strange Land
 Stranger Than Fiction
+Stranger in a Strange Land
 Straw That Broke the Camel's Back
-The Straw That Broke the Camel's Back
 Stress out
 Stretch a Dollar
 Strike While the Iron is Hot
 String Him Along
 Strong As an Ox
-The Stronger the Breeze the Stronger the Trees
-The Strongest Steel is Cast in the Hottest Fire
-The Strongest Winds Blow on the Highest Mountains. (swedish)
 Stubborn As a Mule
 Stuck in a Rut
 Stuck out Like a Sore Thumb
+Stuff That Dreams Are Made of
 Stuff and Nonsense
 Stuffed Shirt
-Stuff That Dreams Are Made of
 Stump Up
 Stupid is As Stupid Does
 Success Has a Thousand Fathers While Failure is an Orphan
@@ -3184,25 +3082,43 @@ Survival of the Fittest
 Suspension of Disbelief
 Swallow One's Pride
 Swan Song
+Sweat the Details
 Sweating Blood
 Sweating Like a Pig
-Sweat the Details
 Sweep It Under the Rug
 Sweet 16 and Never Been Kissed
 Sweet Deal
-A Sweet Deal
 Sweeten the Pot
 Sweetheart Deal
 Swim Against the Tide
-Swimming in Molasses
 Swim Up Stream
 Swim with the Sharks
+Swimming in Molasses
 Swing the Lead,
-The Tables Are Turned
 Tackle My Homework
 Tail Between His Legs
-The Tail That Wagged the Dog
 Tail Wagging the Dog
+Take Care of Your Knitting
+Take Down a Peg or Two,
+Take Five
+Take Him to Task
+Take It Easy
+Take It Like a Man
+Take It and Run with It
+Take It at Face Value
+Take It from Me
+Take It on the Lam
+Take It or Leave It
+Take It to the Limit,
+Take It with a Grain of Salt
+Take One for the Team
+Take Potluck
+Take Someone Down a Peg
+Take Stock of
+Take This Job and Shove It
+Take Umbrage
+Take Your Fate into Your Own Hands
+Take Your Life in Your Own Hands
 Take a Back Seat to
 Take a Breather
 Take a Dive
@@ -3213,27 +3129,6 @@ Take a Long Walk off a Short Plank
 Take a Picture, It Will Last Longer
 Take a Step Back
 Take by Storm
-Take Care of Your Knitting
-Take Down a Peg or Two,
-Take Five
-Take Him to Task
-Take It and Run with It
-Take It at Face Value
-Take It Easy
-Take It from Me
-Take It Like a Man
-Take It on the Lam
-Take It or Leave It
-Take It to the Limit,
-Take It with a Grain of Salt
-Taken Aback
-Taken for a Ride
-Take One for the Team
-Take Potluck
-Takes Its Toll on You
-Take Someone Down a Peg
-Takes One to Know One
-Take Stock of
 Take the Bit Between Your Teeth
 Take the Bull by the Horns
 Take the Crowd out of the Game
@@ -3245,54 +3140,60 @@ Take the Mickey
 Take the Plunge
 Take the Wind out of Your Sails
 Take the World by Storm
-Take This Job and Shove It
-Take Umbrage
 Take with a Pinch of Salt
-Take Your Fate into Your Own Hands
-Take Your Life in Your Own Hands
+Taken Aback
+Taken for a Ride
+Takes Its Toll on You
+Takes One to Know One
 Taking His Pound of Flesh
 Taking the Scenic Route
-The Tale of the Tape
-Talking Behind His Back
-Talking out of Your Head
-Talk of the Devil
-Talk to the Hand
 Talk Turkey
 Talk Until You Are Blue in the Face
-Tall, Dark and Handsome,
+Talk of the Devil
+Talk to the Hand
+Talking Behind His Back
+Talking out of Your Head
 Tall Tale
+Tall, Dark and Handsome,
 Tarred and Feathered
-A Taste of His Own Medicine
 Taste of Your Own Medicine
-Teacher's Pet
 Teach Him to Fish
+Teacher's Pet
 Tear into It
 Teflon President
-Tell a Porkie
 Tell It to Me Straight
 Tell It to the Marines
 Tell Your Story Walking
+Tell a Porkie
 Tempest in a Teacup
-Tend the Garden
 Ten Foot Pole
 Ten to One
-Testing One's Mettle
+Tend the Garden
 Test the Waters
+Testing One's Mettle
 Thank God It's Friday
 Thank Goodness
 Thank Your Lucky Stars
+That Argument Doesn't Hold Water
+That Baby Runs Like a Scalded Dog
+That Burns Me Up
+That Chaps My Hide
+That Dog Won't Hunt
+That Gets My Goat
+That Hits the Spot
+That Oughta Tide You over
+That Really Brings It Home
+That Sucks!
+That Takes the Cake
+That Was Cold-blooded
+That Which Does Not Kill You Makes You Stronger.
+That and a Quarter Will Get You a Cup of Coffee
 That'll Be the Day
 That's About the Size of It
-That's a Doozy
-That's a Joke
 That's All, Folks
-That's a Load off My Mind
-That's a Real Stem-winder
-That's a Wrap
 That's Bogus
 That's Easy for You to Say
 That's Enough to Piss off the Pope
-That's for the Birds
 That's How the Cow Eats the Cabbage
 That's Icing on the Cake
 That's It in a Nutshell
@@ -3308,6 +3209,13 @@ That's Pretty Run-of-the-mill
 That's Rubber on the Side of the Road
 That's Skull Duggery
 That's Some Ole Good
+That's Water Under the Bridge
+That's a Doozy
+That's a Joke
+That's a Load off My Mind
+That's a Real Stem-winder
+That's a Wrap
+That's for the Birds
 That's the $64,000 Question
 That's the Long and Short of It
 That's the Ticket
@@ -3315,27 +3223,151 @@ That's the Way Lady Luck Dances
 That's the Way the Ball Bounces
 That's the Way the Cookie Crumbles
 That's the Whole Ball of Wax
-That's Water Under the Bridge
-That and a Quarter Will Get You a Cup of Coffee
-That Argument Doesn't Hold Water
-That Baby Runs Like a Scalded Dog
-That Burns Me Up
-That Chaps My Hide
-That Dog Won't Hunt
-That Gets My Goat
-That Hits the Spot
-That Oughta Tide You over
-That Really Brings It Home
-That Sucks!
-That Takes the Cake
-That Was Cold-blooded
-That Which Does Not Kill You Makes You Stronger.
+The Acorn Doesn't Fall Far from the Tree
+The Back of Beyond
+The Balance of Power
+The Bee's Knees
+The Belle of the Ball
+The Best Thing Since Little Apples
+The Best Things in Life Are Free
+The Big Apple
+The Big Cheese
+The Big Easy
+The Bigger They Are the Harder They Fall
+The Bitter End
+The Blind Leading the Blind
+The Bomb
+The Bottom Line
+The Bowels of the Earth
+The Bread of Life
+The Buck Stops Here
+The Butler Did It
+The Call of the Wild
+The Camera Cannot Lie
+The Cat's Meow
+The Cat's Pajamas
+The Cat's Whiskers
+The Chickens Come Home to Roost
+The Cold Shoulder
+The Collywobbles
+The Course of True Love Never Did Run Smooth
+The Crack of Doom
+The Cream of the Crop
+The Customer is Always Right
+The Cut of Your Jib
+The Darkest Hour is Just Before the Dawn
+The Darling Buds of May
+The Devil Incarnate
+The Devil Made Me Do It
+The Devil Must Be Beating His Wife
+The Devil Takes the Hindmost
+The Devil is Always Ready to Rock the Cradle of the Saint Who Sleeps
+The Devil is in the Details
+The Devil to Pay
+The Die Has Been Cast
+The Dog Ate My Homework
+The Early Bird Catches the Worm
+The Earth Moved
+The Elephant in the Room
+The Exception That Proves the Rule
+The Eyes Are the Mirrors (windows) of (to) the Soul
+The Face That Launched a Thousand Ships
+The Female of the Species is More Deadly Than the Male
+The Fickle Finger of Fate
+The Fifth Beatle
+The Final Analysis
+The Floozie in the Jacuzzi
+The Fly in the Ointment
+The Full Monty
+The Game is Afoot
+The Game is Up
+The Girl Next Door
+The Gospel Truth
+The Grass is Always Greener on the Other Side
+The Great Unwashed
+The Greatest Thing Since Sliced Bread
+The Hairy Eyeball
+The Hand That Rocks the Cradle
+The Heebie-jeebies
+The Last Straw
+The Left Hand Doesn't Know What the Right Hand is Doing
+The Light's on but Nobody's Home
+The Living Daylights
+The Long Arm of the Law
+The Lord Giveth and the Lord Taketh Away
+The Lord Moves in Mysterious Ways
+The Love That Dare Not Speak Its Name
+The Lowest on the Totem Pole
+The Luck of the Draw
+The Melting Pot
+The More Things Change, the More They Stay the Same
+The More We Learn, the Less We Know
+The More the Merrier
+The Moving Finger Writes,
+The Mutt's Nuts,
+The Nail That Sticks Up Gets Pounded Down (japanese)
+The Naked Truth
+The Night is Young and So Are We
+The Nth Degree,
+The Old Ball and Chain
+The One That Got Away
+The Only Difference Between Women and Girls is the Price of Their Pearls
+The Only People I Trust Are You and Me, and I Am Not Too Sure About You!
+The Only Thing We Have to Fear is Fear Itself
+The Order of the Boot
+The Pen is Mightier Than the Sword
+The Penny Drops
+The Pick of the Litter
+The Place Was Crawling with Cops
+The Pot Calling the Kettle Black
+The Powers That Be
+The Proof is in the Pudding
+The Quiet Before the Storm
+The Real Mccoy
+The Road Less Travelled
+The Road to Ruin / Hell is Paved with Good Intentions.
+The Same Old Story
+The Seven-year Itch
+The Shoe's on the Other Foot
+The Show Must Go on
+The Sky's the Limit
+The Squeaky Wheel Gets the Grease
+The Straw That Broke the Camel's Back
+The Stronger the Breeze the Stronger the Trees
+The Strongest Steel is Cast in the Hottest Fire
+The Strongest Winds Blow on the Highest Mountains. (swedish)
+The Tables Are Turned
+The Tail That Wagged the Dog
+The Tale of the Tape
+The Third Degree
+The Tide's Beginning to Turn
+The Triumph of Hope over Experience
+The Truth Hurts
+The Twilight Years
+The Unkindest Cut of All
+The Usual Suspects
+The Whole Kit and Caboodle
+The Whole Nine Yards
+The Whole Shebang,
+The Whole Shootin' Match,
+The World is Your Oyster
+The Writing is on the Wall
+The Year Dot
+The Yellow Peril
 Them's Fightin' Words
+There Are Starving Children in Africa
+There Are Three Kinds of Lies.
+There Now, That Wasn't So Bad, Was It?
+There Ought to Be a Law Against That
+There for the Taking
+There is More Than One Way to Skin a Cat
+There is No Alternative
+There is No Cow on the Ice
+There is No I in Team
+There is No Such Thing As a Free Lunch
+There is No Time Like the Present
+There is a God
 There'll Be Hell to Pay
-There's a First Time for Everything
-There's a God and I'm Not Him
-There's an R in the Month
-There's a Sucker Born Every Minute,
 There's Gold in Them Thar Hills
 There's More Than One Way to Skin a Cat
 There's More Where That Came from
@@ -3345,161 +3377,144 @@ There's No Time Like the Present,
 There's One in Every Crowd,
 There's Something Fishy About That
 There's Something I've Been Meaning to Tell You
+There's a First Time for Everything
+There's a God and I'm Not Him
+There's a Sucker Born Every Minute,
+There's an R in the Month
 There, but for the Grace of God, Go I,
-There Are Starving Children in Africa
-There Are Three Kinds of Lies.
-There for the Taking
-There is a God
-There is More Than One Way to Skin a Cat
-There is No Alternative
-There is No Cow on the Ice
-There is No I in Team
-There is No Such Thing As a Free Lunch
-There is No Time Like the Present
-There Now, That Wasn't So Bad, Was It?
-There Ought to Be a Law Against That
 These Things Happen
-They're Getting Hitched
-They're Jumping the Broomstick
-They're Like Two Peas in a Pod
 They Can't Buy a Basket/run/score
 They Gave Him Carte Blanche
 They Need to Take Care of the Rock,
 They Play Good D
 They Threw the Book at Him
-Thick and Thin
-Thick As a Brick
-Thick As a Ditch
+They're Getting Hitched
+They're Jumping the Broomstick
+They're Like Two Peas in a Pod
 Thick As Pea Soup
 Thick As Thieves
+Thick As a Brick
+Thick As a Ditch
 Thick Headed
+Thick and Thin
 Thin As Six O'clock
-Some Things Are Better Left Unsaid
-Things Aren't What They Used to Be
 Things Are Not Always As They Seem
+Things Aren't What They Used to Be
 Things That Go Bump in the Night
-Thinking with the Wrong Head
 Think Like a Man, Act Like a Woman
 Think Outside of the Box
 Think Outside the Box
-The Third Degree
+Thinking with the Wrong Head
+Third Time Lucky
 Third Time's a Charm
 Third Time's the Charm
-Third Time Lucky
 Third Wheel
 Thirty Thousand (30,000) Foot Level
 This Could Be the Start of Something Big
 This Day and Age
 This Hurts Me Worse Than It Does You
-This is for the Birds
 This Point in Time
 This Town's Not Big Enough for the Two of Us
+This is for the Birds
 Thorn in My Side
-A Thorn in the Flesh
 Those Who Do Not Look Back from Where They Come From, Will Not Reach Their Destination
-Though This Be Madness, Yet There is Method in It.
 Thou Shalt Not Kill
-Three-score Years and Ten
+Though This Be Madness, Yet There is Method in It.
 Three Sheets to the Wind
-Three Strikes and You're out
 Three Strikes and You Are out
-Threw a Curve Ball
+Three Strikes and You're out
+Three-score Years and Ten
 Threw It with a Little Something on It
 Threw Up My Hands (in Concession/in Disgust)
-Through the Grapevine
+Threw a Curve Ball
 Through Thick and Thin
-Throw (toss) Me a Bone,
+Through the Grapevine
 Throw (toss) Me Some Scraps,
+Throw (toss) Me a Bone,
 Throw (toss) Your Hat in the Ring
-Throw a Fit
-Throw a Monkey Wrench into the Works
 Throw Cold Water on
 Throw Down
 Throw Gas (gasoline) on the Fire
-Throwing Caution to the Wind
-Throwing out the Baby with the Bathwater
-Throw in the Towel
 Throw Someone to the Wolves
+Throw Your Hat into the Ring
+Throw a Fit
+Throw a Monkey Wrench into the Works
+Throw in the Towel
 Throw the Baby out with the Bathwater
 Throw the Book at Him
-Throw Your Hat into the Ring
-Thumbs Up
+Throwing Caution to the Wind
+Throwing out the Baby with the Bathwater
 Thumb Your Nose at
+Thumbs Up
 Ticked off
-Tickled Pink
 Tickle the Ivories,
-The Tide's Beginning to Turn
-Tied to Her Apron Strings
-Tied Up Right Now
+Tickled Pink
 Tie the Knot
+Tied Up Right Now
+Tied to Her Apron Strings
 Tiger by the Tail
 Tight As a Drum
 Tight As the Bark on a Tree
+Tight Wad
 Tighten Your Belt
 Tighter Than a Gnat's Ass
-Tight Wad
 Till the Cows Come Home
 Till the Fat Lady Sings
 Tilting at Windmills
 Timber!
-Time's Up
-Time-honored
 Time After Time
+Time Flies when You're Having Fun
+Time Heals All Wounds
+Time Stands Still
+Time Waits for No Man
+Time Will Tell
 Time and Again
 Time and Tide Wait for No Man
 Time and Time Again
-Time Flies when You're Having Fun
-Time Heals All Wounds
 Time is Money
-Time is of the Essence
-Time is of the Essense
 Time is Running out
 Time is Up
+Time is of the Essence
+Time is of the Essense
 Time of Your Life
 Time on Your Hands
 Time out
-Times, They Are a Changing
-Time Stands Still
 Time to Pay the Piper
-Time Waits for No Man
-Time Will Tell
+Time's Up
+Time-honored
+Times, They Are a Changing
 Timing is Everything
 Tin Ear
 Tingling with Anticipation
-A Tinker's Damn
 Tip of the Iceberg
 Tit for Tat,
 Tits-up
 To Assume Makes an Ass out of U and Me
-To a T
 To Badger Someone
-To Beat the Band,
 To Be Beside Yourself
 To Be Fed Up
 To Be Honest with You
-To Be or Not to Be
 To Be Young and Foolish,
+To Be or Not to Be
+To Beat the Band,
 To Boldly Go Where No Man Has Gone Before,
 To Boot
 To Cast the First Stone
 To Chance Your Arm
 To Close Ranks
 To Cry Wolf
-Today is the First Day of the Rest of Your Life,
-Toe-curling
 To Each His Own
 To Egg on
 To Err is Human
 To Err is Human, to Forgive Divine
-Toe the Line
 To Fall Foul
 To Feather Your Nest,
 To Fork Out,
 To Go the Whole Hog,
 To Harp On,
+To Have Cold Feet,
 To Have a Field Day,
 To Have a Gammy Leg,
-To Have Cold Feet,
 To Hedge One's Bets,
 To Hell in a Hand Basket,
 To Knock (or Beat) the Tar out of
@@ -3507,55 +3522,59 @@ To Know Beans,
 To Lark About,
 To Lie Down with Lions
 To Live from Hand to Mouth
-Tomorrow is Another Day
-Tongue-in-cheek
-Tongue in Cheek
-Tongue Lashing
-Tongue Tied
-Toodle-oo
-Too Hot to Handle
-Took Me to the Cleaners
-Took off Like a Bat out of Hell
-Took off Like a Shot
-Too Many Chefs Spoil the Broth (soup),
-Too Many Chiefs and Not Enough Indians,
-Too Many Cooks Spoil the Broth
-Too Much Information (tmi)
-Too Much of a Good Thing,
-Too Much Sail for a Small Craft
-Too Rich for My Blood
-Tooth and Nail
-Toot His Own Horn
-Top Dog
-Top Drawer
 To Play Hookey
-Top Notch
-Top of the Morning
-Topsy Turvy
-Tore Up from the Floor Up
-Torn Asunder
 To Run Amok
 To Save One's Bacon
 To Shoot the Crow
 To Skin a Cat
-Toss Your Cookies
 To Take Aback,
 To Talk Gibberish
 To Tell You the Truth
+To Toy With,
+To Travel Hopefully is a Better Thing Than to Arrive,
+To Wreak Havock
+To a T
 To the Best of My Knowledge
 To the Bitter End
 To the Manner Born,
 To the Nth Degree,
 To the Victor Go the Spoils,
-To Toy With,
-To Travel Hopefully is a Better Thing Than to Arrive,
+Today is the First Day of the Rest of Your Life,
+Toe the Line
+Toe-curling
+Tomorrow is Another Day
+Tongue Lashing
+Tongue Tied
+Tongue in Cheek
+Tongue-in-cheek
+Too Hot to Handle
+Too Many Chefs Spoil the Broth (soup),
+Too Many Chiefs and Not Enough Indians,
+Too Many Cooks Spoil the Broth
+Too Much Information (tmi)
+Too Much Sail for a Small Craft
+Too Much of a Good Thing,
+Too Rich for My Blood
+Toodle-oo
+Took Me to the Cleaners
+Took off Like a Bat out of Hell
+Took off Like a Shot
+Toot His Own Horn
+Tooth and Nail
+Top Dog
+Top Drawer
+Top Notch
+Top of the Morning
+Topsy Turvy
+Tore Up from the Floor Up
+Torn Asunder
+Toss Your Cookies
 Touch and Go
 Touch of Blarney
 Touchy-feely
 Tough As Nails
 Tough Luck
 Tough Row to Hoe
-To Wreak Havock
 Tow the Line
 Traditional Family Values
 Train of Thought
@@ -3566,80 +3585,70 @@ Tried and True
 Trip Down Memory Lane
 Trip over Your Tongue
 Trip the Light Fantastic
-The Triumph of Hope over Experience
 Trojan Horse,
 Trouble with a Capital `t'
 True Blue
-The Truth Hurts
-Truth is Stranger Than Fiction.
 Truth Will out
+Truth is Stranger Than Fiction.
 Try As I Might
-Trying to Put a Square Peg in a Round Hole
 Try It for Free!
 Try Your Hand at Something
+Trying to Put a Square Peg in a Round Hole
 Tuckered out
 Tugging at Heartstrings
 Tune out
+Turn Up Trumps
+Turn Your Smile/frown Upside-down
 Turn a Blind Eye
 Turn on a Dime
 Turn over a New Leaf
 Turn the Other Cheek
 Turn the Tables
-Turn Up Trumps
-Turn Your Smile/frown Upside-down
 Twelve Good Men and True
 Twice As Nice
 Twice As Strong As an Ox and Half As Smart
 Twiddling Your Thumbs
-The Twilight Years
 Twist My Arm
 Twist of Fate
 Twists and Turns
-Two's Company, Three's a Crowd
-Two-faced
 Two Cents' Worth
 Two Heads Are Better Than One
 Two Left Feet
-Two of a Kind
 Two Ships Passing in the Night
 Two Sides of the Same Coin
-Two to Tango
 Two Wrongs Don't Make a Right
+Two of a Kind
+Two to Tango
+Two's Company, Three's a Crowd
+Two-faced
+U is Part of Us
+Ugly As Sin
 Ugly As a Hat Full of Holes
 Ugly As a Mud Fence
-Ugly As Sin
-U is Part of Us
 Unbeknownst to Me/him
-Under a Microscope
 Under Her Thumb
 Under My Skin
 Under My Wing
-Understated Elegance
+Under a Microscope
 Under the Gun
 Under the Knife
 Under the Same Roof
 Under the Sauce
 Under the Table
 Under the Weather
+Understated Elegance
 Uneasy Lies the Head That Wears a Crown
 Unexpected Twist
-The Unkindest Cut of All
 Unless You Are the Lead Dog, the View Never Changes
 Unlucky at Cards, Lucky in Love
 Until the Cows Come Home
+Up His Sleeve
+Up Sh#t Creek
 Up a Blind Alley
 Up a Creek Without a Paddle
 Up a Gum Tree
 Up for Grabs
-Uphill Battle
-Up His Sleeve
 Up in Arms
-Upper Crust
-Upper Hand,
-Ups-a-daisy,
-Upset the Apple Cart
-Up Sh#t Creek
-Upsy-daisy/oopsy-daisy
 Up the Ante
 Up the Creek
 Up the Creek Without a Paddle
@@ -3647,54 +3656,62 @@ Up the Duff
 Up the Wrong Tree
 Up to His Ears in Trouble
 Up to Snuff
+Uphill Battle
+Upper Crust
+Upper Hand,
+Ups-a-daisy,
+Upset the Apple Cart
+Upsy-daisy/oopsy-daisy
 Urban Myth
 Useless As Tits on a Boar Hog
 Using a Sledgehammer to Crack a Nut
-The Usual Suspects
 Variety is the Spice of Life
 Very Real Concern
 View with Alarm
 Wait and See
 Wait for the Ink to Dry
+Waiting for Your Ship to Come in
 Waiting for the Dust to Settle
 Waiting for the Other Shoe to Drop
-Waiting for Your Ship to Come in
 Waiting in the Wings
 Waiting with Baited Breath
-Wake-up Call
-Wake the Dead
-Wake Up and Smell the Coffee
-Wakeup Call
 Wake Up Living
+Wake Up and Smell the Coffee
+Wake the Dead
+Wake-up Call
+Wakeup Call
 Waking Up on the Wrong Side of the Bed
 Waking Up with the Chickens
+Walk Softly and Carry a Big Stick
+Walk on the Wild Side
+Walk the Plank
 Walking on Air
 Walking on Eggshells
 Walking on Sunshine
-Walk on the Wild Side
-Walk Softly and Carry a Big Stick
-Walk the Plank
 Walled Garden
 Walls Have Ears
 Walls Start Closing in
 Want My Place in the Sun
 Warts and All
-Washed Up
+Was My Face Red
 Wash Your Hands of Something
 Wash Your Mouth out with Soap
-Was My Face Red
-Wasted
+Washed Up
 Waste Not, Want Not
-Watch and Wait
-Watched Pot Never Boils
-A Watched Pot Never Boils
-Watching the Clock
+Wasted
 Watch Your Mouth
 Watch Your Tongue
+Watch and Wait
+Watched Pot Never Boils
+Watching the Clock
 Water, Water Everywhere, but Not a Drop to Drink
 Wave the White Flag
-Way to a Man's Heart is Through His Stomach
 Way to Go, Einstein!
+Way to a Man's Heart is Through His Stomach
+We Are Not Amused
+We Few, We Happy Few, We Band of Brothers
+We Have Seen Better Days
+We Know Where You Live
 We'll Cross That Bridge when We Come to It.
 We'll Jump That Fence when We Get to It.
 We're Going to Burn the Midnight Oil
@@ -3703,80 +3720,78 @@ We're Not in Kansas Anymore
 We're Really Going to Town
 We're Sitting Ducks
 We've Hit Paydirt
-We Are Not Amused
+Wear Many Hats
+Wear Your Heart on Your Sleeve
+Wear the Trousers
 Wearing Nothin' but His Birthday Suit
 Wearing the Big Girlie Blouse (australian)
-Wear Many Hats
-Wear the Trousers
-Wear Your Heart on Your Sleeve
 Weasel Words
 Weather the Storm
 Web of Intrigue
 Week of Sundays
-We Few, We Happy Few, We Band of Brothers
-We Have Seen Better Days
-We Know Where You Live
 Welcome to My World
 Welcome to the Club
 Well, How Do You Like Them Apples?
 Went Belly Up
-Went over Like a Lead Balloon
 Went Storming off in a Huff
 Went Through the Roof
+Went over Like a Lead Balloon
 Were You Born in a Barn?
 Were You Raised by Wolves?
 Wet Behind the Ears.
 Wham, Bam, Thank You Ma'am.
-What's a Little __ Among Friends
+What Am I, Chopped Liver?
+What Are You Like?
+What Are You Stewing About?
+What Are You? Chicken?
+What Comes Around, Goes Around
+What Does That Have to Do with the Price of Tea in China?
+What God Has Joined Together, Let No Man Put Asunder.
+What Goes Around Comes Around.
+What Goes Up, Must Come Down.
+What Part of "no" Don't You Understand?
+What Rock Did You Crawl out from Under?
+What You See is What You Get
+What a Blast!
+What a Bummer
+What a Duck!
+What a Piece of Work is Man
+What a Tangled Web We Weave
+What a Way to Go
+What in Tarnation?
+What on Earth is Wrong with Me?
+What the Cat Dragged in
+What the Dickens
+What the Heck/hell
 What's Cookin', Good Lookin'?
 What's Going Down?
 What's Good for the Goose is Good for the Gander.
 What's He Been Smoking?
-What's in a Name? That Which We Call a Rose by Any Other Smells Just As Sweet.
 What's Not to Like
 What's Not to Like?
-What's the Skinny?
 What's Up Doc?
 What's Up with That?
 What's Wrong with This Picture?
-What a Blast!
-What a Bummer
-What a Duck!
-What Am I, Chopped Liver?
-What a Piece of Work is Man
-What Are You? Chicken?
-What Are You Like?
-What Are You Stewing About?
-What a Tangled Web We Weave
-What a Way to Go
-What Comes Around, Goes Around
-What Does That Have to Do with the Price of Tea in China?
+What's a Little __ Among Friends
+What's in a Name? That Which We Call a Rose by Any Other Smells Just As Sweet.
+What's the Skinny?
 Whatever Doesn't Kill You Makes You Stronger
 Whatever Floats Your Boat
 Whatever Tickles Your Fancy
 Whatever Turns You on
-What God Has Joined Together, Let No Man Put Asunder.
-What Goes Around Comes Around.
-What Goes Up, Must Come Down.
-What in Tarnation?
-What on Earth is Wrong with Me?
-What Part of "no" Don't You Understand?
-What Rock Did You Crawl out from Under?
-What the Cat Dragged in
-What the Dickens
-What the Heck/hell
-What You See is What You Get
 Wheeler-dealer
 When All is Said and Done
 When Hell Freezes over
-When in Doubt, Punt
-When in Rome, Do As Romans Do.
 When It Comes to the Crunch
 When It Rains, It Pours.
 When Life Gives You Lemons, Make Lemonade,
 When Pigs Fly
 When Push Comes to Shove
 When Rubber Meets the Road
+When You Lie with Dogs, You Catch Fleas
+When You Start Picking out People You Start Leaving People out
+When in Doubt, Punt
+When in Rome, Do As Romans Do.
 When the Cat's Away
 When the Cat's Away, the Mouse Will Play
 When the Chips Are Down
@@ -3785,18 +3800,16 @@ When the Going Gets Tough, the Tough Get Going.
 When the Lion is Dead, the Hares Jump on His Back. (swedish)
 When the Shit Hits the Fan
 When the Tide Goes out the Rocks Begin to Show
-When You Lie with Dogs, You Catch Fleas
-When You Start Picking out People You Start Leaving People out
-Where's the Beef?
 Where Do You Draw the Line?
-Where There's Smoke, There's Fire.
 Where There is Muck There's Brass
+Where There's Smoke, There's Fire.
 Where the Rubber Meets the Road
+Where's the Beef?
 Whet Your Appetite
 Whew!
 While Away the Hours
-While the Tailor Rests, the Needle Rusts. (swedish)
 While You Live, Tell Truth and Shame the Devil!
+While the Tailor Rests, the Needle Rusts. (swedish)
 Whipping Boy
 Whistle Down the Wind
 Whistle for It
@@ -3804,82 +3817,72 @@ Whistle in the Dark
 White As a Sheet
 White Bread
 White Elephant
-A White Elephant
 White Knuckle Ride
-Who's the Man?
 Who Could Forget
 Who Died and Left You in Charge?
 Who Died and Made Him King (god)?
-Whoever Dies with the Most Toys Wins.
 Who Has Everything
+Who Pissed in Your Cheerios?
+Who's the Man?
+Whoever Dies with the Most Toys Wins.
 Whole Ball of Wax
 Whole Hog
-The Whole Kit and Caboodle
 Whole Nine Yards
-The Whole Nine Yards
 Whole Other Story
-The Whole Shebang,
 Whole Shootin' Match
-The Whole Shootin' Match,
 Whoop It Up
 Whoops-a-daisy
-Who Pissed in Your Cheerios?
 Why Buy the Cow when the Milk is Free?
 Why Close the Barn Door After the Horse is Gone?
-Why Don't We All Chip In?
 Why Do Today What You Can Put off 'til Tomorrow?
+Why Don't We All Chip In?
 Why on God's Green Earth?
-A Wide Berth
 Widow's Peak
 Wig out
-Wild and Woolly
 Wild Goose Chase
 Wild Oats
+Wild and Woolly
 Will Miracles/wonders Never Cease?
 Will Wonders Never Cease
 Willy-nilly
 Wimp
 Win Friends and Influence People
-Wing and a Prayer
-Wing It
 Win Hands Down
-Winning Combination
-A Winning Combination
-Winning Isn't Everything
 Win One for the Gipper
+Wing It
+Wing and a Prayer
+Winning Combination
+Winning Isn't Everything
 Wipe the Slate Clean
 Wisdom of the Ages
-Wish on a Star
 Wish You Were Here
+Wish on a Star
 Wishy Washy
 Witch Hunt
-With a Grain of Salt
 With Bated Breath
 With One Hand Tied Behind My Back
-Without Benefit of Clergy
 With Tongue Firmly Planted in Cheek
+With a Grain of Salt
+Without Benefit of Clergy
 Wnning is Everything
 Woe is Me
 Wolf at the Door
-A Wolf in Sheep's Clothing
-A Woman Needs a Man Like a Fish Needs a Bicycle
 Women and Children First!
 Wool Gathering
 Word for Word
 Words Fail
-Worker Bee
-Working My Last Good Nerve
-Work into a Lather
 Work Like a Dog
+Work Your Fingers to the Bone.
+Work into a Lather
 Work the Crowd
 Work the Room
 Work to a Deadline
-Work Your Fingers to the Bone.
-The World is Your Oyster
+Worker Bee
+Working My Last Good Nerve
+World Weary
 World of Hurt
 World of Trouble
 World on a String
-World Weary
 Worry Wart
 Worst Nightmare
 Worth Its Salt
@@ -3888,28 +3891,26 @@ Worthless As Tits on a Boar
 Wouldn't Kick Her (him) Outta Bed for Eatin' Crackers
 Wouldn't Touch with a Barge-pole
 Wound Tighter Than a Spring.
-The Writing is on the Wall
 Wrong End of the Stick
 Wrong Side of the Bed
 Wrong Side of the Tracks
 Yank Your Chain
-The Year Dot
 Years Young
 Yellow Journalism
-The Yellow Peril
-You'll Know It when You See It
-You're a Good Egg
-You're All Wet
-You're Dead Meat
-You're Driving Me Insane
-You're Going to Get It
-You're off Your Rocker
-You're the Gleam in Your Father's Eye
-You've Got (a) Nerve
-You've Got More Front Than Myers
 You Ain't Seen Nothin' Yet
 You Are What You Eat
 You Bet Your Boots
+You Can Catch More Flies with Honey Than with Vinegar
+You Can Dish It Out, but You Sure Can't Take It
+You Can Lead a Horse to Water, but You Can't Make Him Drink.
+You Can Lead a Horticulture, but You Can't Make Her Think
+You Can Never Be Too Rich or Too Blonde
+You Can Never Go Home Again
+You Can Pick Your Friends and You Can Pick Your Nose, but You Can't Pick Your Friend's Nose.
+You Can Run, but You Can't Hide
+You Can Say That Again
+You Can Take That to the Bank
+You Can Tell the Men from the Boys by the Price of Their Toys
 You Can't Fit a Square Peg in a Round Hole
 You Can't Have Your Cake and Eat It Too
 You Can't Judge a Book by Its Cover
@@ -3923,18 +3924,7 @@ You Can't Swing a Dead Cat
 You Can't Take It with You
 You Can't Take Knickers off a Bare Arse
 You Can't Teach an Old Dog New Tricks
-You Can Catch More Flies with Honey Than with Vinegar
-You Can Dish It Out, but You Sure Can't Take It
-You Can Lead a Horse to Water, but You Can't Make Him Drink.
-You Can Lead a Horticulture, but You Can't Make Her Think
-You Can Never Be Too Rich or Too Blonde
-You Can Never Go Home Again
 You Cannot Judge Someone Until You Have Walked a Mile in Their Shoes / Moccasins / Boots.
-You Can Pick Your Friends and You Can Pick Your Nose, but You Can't Pick Your Friend's Nose.
-You Can Run, but You Can't Hide
-You Can Say That Again
-You Can Take That to the Bank
-You Can Tell the Men from the Boys by the Price of Their Toys
 You Could Have Knocked Me over with a Feather
 You Could Put Your Eye out
 You Don't Have a Leg to Stand on
@@ -3943,9 +3933,9 @@ You Drive Me Crazy
 You Drive Me Nuts
 You Drive Me Up the Wall
 You Got It Coming to You
-You Gotta Put Your Foot Down
 You Got Your Just Deserves (desserts)
 You Got Your Just Desserts
+You Gotta Put Your Foot Down
 You Have to Break a Few Eggs to Make an Omelette
 You Have to Separate the Chaff from the Wheat
 You Have to Stand for Something or You'll Fall for Anything
@@ -3959,24 +3949,34 @@ You Make a Better Door Than a Window.
 You Must Be out of Your Mind
 You Must Crawl Before You Can Walk.
 You Must Row with the Oars That You Have. (swedish)
-Young, Dumb and Full of Rum
-Young and Foolish
-Young and Restless
-Young Loins
 You Only Hurt the One You Love
 You Only Live Once
-Your Ass is Grass
 You Reap What You Sow
-Your Father Wasn't a Glass Maker.
-Your Goose is Cooked.
-Your Name is Mud
-Your Place or Mine
 You Say Potayto, I Say Potahto
 You Scratch My Back, and I'll Scratch Yours.
 You Snooze, You Loose.
 You Throw Filth on the Living and Flowers on the Dead. (swedish)
 You Wash My Back, I'll Wash Yours
 You Win Some You Lose Some
+You'll Know It when You See It
+You're All Wet
+You're Dead Meat
+You're Driving Me Insane
+You're Going to Get It
+You're a Good Egg
+You're off Your Rocker
+You're the Gleam in Your Father's Eye
+You've Got (a) Nerve
+You've Got More Front Than Myers
+Young Loins
+Young and Foolish
+Young and Restless
+Young, Dumb and Full of Rum
+Your Ass is Grass
+Your Father Wasn't a Glass Maker.
+Your Goose is Cooked.
+Your Name is Mud
+Your Place or Mine
 Yuppie
 Zigged when He Should Have Zagged
 Zip It!
